@@ -3,7 +3,7 @@
 # INFORME CURSO 2021-2022
 
 
-<img src=img/pixelgrey_25.gif width=100% height=25px>
+<img src='img/pixelgrey_25.gif' width='100%' height='25px'>
 
 ## [IES Francisco Daviña Rey](http://fitofaladoiro.eu?fich=186tgTeKcOELFC2Xayl6EDYgkjC2Ir9Y9DqDz6926jzg)
 
@@ -30,7 +30,7 @@ Lu. Monforte de Lemos (39); Lu. Pobra de Brollón (16); Lu. Bóveda (10); Lu. Pa
 
 <img src=img/pixelmagenta.gif width=100% height=5px>
 
-<img src=img/pixelgrey_25.gif width=100% height=25px>
+<img src='img/pixelgrey_25.gif' width='100%' height='25px'>
 
 ## [IES Illa de Ons](http://fitofaladoiro.eu?fich=12ejm7IFw5ItM57N0rmbfdWP0mjxlOrkaQ128UjOf8bo)
 
@@ -60,7 +60,7 @@ Po. Bueu (55); Po. Marín (12); C. Porto do Son (3); Po. Cangas (2); C. Cedeira 
 - son: 17
 <img src=img/pixelmagenta.gif width=100% height=5px>
 
-<img src=img/pixelgrey_25.gif width=100% height=25px>
+<img src='img/pixelgrey_25.gif' width='100%' height='25px'>
 
 ## [CPR Plurilingüe Compañía de María](http://fitofaladoiro.eu?fich=1P2Wlz96NfJbmYDDP0kVr2_jdADi66n0YelHwAY4WglA)
 
@@ -89,7 +89,7 @@ Po. Cangas (8);
 - outros: 9
 <img src=img/pixelmagenta.gif width=100% height=5px>
 
-<img src=img/pixelgrey_25.gif width=100% height=25px>
+<img src='img/pixelgrey_25.gif' width='100%' height='25px'>
 
 ## [IES de Valga](http://fitofaladoiro.eu?fich=108vtcDLGSADF3xEtNlB4_8a0cquOVKFxtg6aUz4LaGk)
 
