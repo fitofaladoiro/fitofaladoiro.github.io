@@ -19,6 +19,7 @@ _Adenocarpus complicatus_ (1); _Amarantus spp._ (1); _Aquilea milefolium_ (1); _
 
 
 'Abrotia' (1); 'Adelfa' (1); 'Agulleira' (1); 'Amores' (1); 'Amorodeira' (1); 'Anís' (1); 'Aquilea' (1); 'Azaia' (1); 'Béldrego' (1); 'Canavela' (1); 'Cardea' (1); 'Carpanza' (1); 'Carqueixa' (1); 'Chicoria' (1); 'Ciruda' (1); 'Codeso' (1); 'Cola de cabalo' (1); 'Colza' (1); 'Correola' (1); 'Corrixola' (1); 'Croque' (1); 'Cáncaro' (1); 'Cópelo' (1); 'Estalote' (1); 'Estoupo' (2); 'Fabaca' (1); 'Fariñento' (1); 'Fenta' (1); 'Fento' (2); 'Fiollo' (1); 'Galo Cristo' (1); 'Hedra' (1); 'Herba de Nuetra Señora' (1); 'Herba do pé rubio' (1); 'Herba moura' (1); 'Lengua de ovella' (1); 'Madreselva' (1); 'Malla' (1); 'Malva' (1); 'Margarita' (1); 'Marrubio' (1); 'Melisa' (1); 'Menta brava' (1); 'Mexacán' (1); 'Morote' (1); 'Muruxa' (1); 'Narciso' (1); 'Nébeda' (1); 'Ortiga' (1); 'Ourego' (1); 'Paciporca' (1); 'Pampilo' (1); 'Perexil' (1); 'Poxo' (1); 'Primavera' (1); 'Reló' (1); 'Romeo' (1); 'Romeu' (1); 'Rosa Brava' (1); 'Rusco' (1); 'Sangre de Cristo' (1); 'Silva Mcha' (1); 'Trevo' (1); 'Tullemerendas' (1); 'Veza' (1); 'Violeta' (1); 'Xario' (1); 'Xesta' (1); 'Xinxebra' (1); 'Xunca' (1); 'Xunco' (1); 
+#### Realizadas en 5 concellos:ESP. Lu. Bóveda (10); ESP. Lu. Monforte de Lemos (39); ESP. Lu. Paradela (5); ESP. Lu. Pobra de Brollón (16); ESP. Lu. Saviñao, O (3); 
 <img src=img/pixelblue.gif width=100% height=5px>
 
 <img src=img/pixelmagenta.gif width=100% height=5px>
@@ -43,6 +44,7 @@ _Aloysia citrodora_ (1); _Chelidonium majus_ (2); _Foeniculum vulgare_ (2); _Fuc
 
 
 'a banda' (1); 'alecrín' (1); 'alfábega' (1); 'bocho' (1); 'cantroxo' (1); 'carrasca' (1); 'carrasquiña' (1); 'celidonia' (2); 'chopo' (2); 'chícharos' (1); 'ervillas' (2); 'espadaina' (1); 'estruga' (3); 'estrugha' (1); 'eucalipto' (1); 'fiúncho' (3); 'follaco' (1); 'ghisantes' (1); 'gholfo (de cañoto plano)' (1); 'gholfo (de cañoto silíndrico)' (1); 'herba luísa' (3); 'hortelá' (1); 'infante' (1); 'laurel' (1); 'lavanda' (2); 'lengua de ovella' (1); 'lirio' (1); 'loureiro' (2); 'maltraste' (3); 'malva' (2); 'margarita' (1); 'maínzo' (1); 'menta' (1); 'menta de burro' (1); 'millo' (2); 'ortiga' (2); 'orégano' (1); 'pendón' (1); 'perexil' (1); 'planta do diñeiro' (1); 'prestes' (2); 'puenses' (1); 'rafia' (1); 'romero' (1); 'romeu' (1); 'roseira' (1); 'ruda' (2); 'sabugheiro' (1); 'sabugueiro' (1); 'selidonia' (2); 'toxo' (2); 'toxo femia' (1); 'xesta' (2); 
+#### Realizadas en 6 concellos:ESP. C. Cedeira (1); ESP. C. Porto do Son (3); ESP. Lu. Lourenzá (1); ESP. Po. Bueu (55); ESP. Po. Cangas (2); ESP. Po. Marín (12); 
 <img src=img/pixelblue.gif width=100% height=5px>
 
 <img src=img/pixelmagenta.gif width=100% height=5px>
@@ -70,6 +72,7 @@ _Agalla de Devonshire_ (1); _Aloysia Citrodora_ (1); _Bellis Perennis_ (1); _Cam
 
 
 'camelia' (1); 'couselo' (1); 'hedra' (1); 'herba luísa' (1); 'Margarida' (1); 'Pirinola' (1); 'Romeu /Alecrín' (1); 'simbalaira' (1); 
+#### Realizadas en 1 concellos:ESP. Po. Cangas (8); 
 <img src=img/pixelblue.gif width=100% height=5px>
 
 <img src=img/pixelmagenta.gif width=100% height=5px>
@@ -96,6 +99,7 @@ _Aloe Vera Burm_ (1); _Aloysia citrodora_ (2); _Celidoium Majus_ (1); _Celidoniu
 
 
 'Albaca' (2); 'Allo' (1); 'Aloe Vera' (4); 'Azafrán' (1); 'Bieiteiro' (2); 'Cardo' (2); 'Celidonia' (1); 'Cola de caballo' (1); 'Croques' (1); 'Dedaleira' (1); 'Estrujas' (2); 'Fiuncho' (2); 'Folla de Col' (1); 'Gengibre' (1); 'Herba Luísa' (8); 'Loureiro' (5); 'Loureiro Bravo' (1); 'Loureiro Manso' (1); 'Manzanilla' (1); 'Margaritas silvestres' (1); 'Menta' (5); 'Orégano' (2); 'Perejil' (1); 'Pirixel' (1); 'Planta das verrugas' (1); 'Planta do millo' (1); 'Planta dos estalos' (1); 'Planta dos estalotes' (1); 'Romeo' (1); 'Romero' (6); 'Romeu' (1); 'Ruda' (6); 'Sabugueiro' (1); 'Sabugueiro negro' (1); 'Salvia' (1); 'Silidonia' (2); 'Siridonia' (2); 'Tomillo' (2); 'Tomiño' (2); 'Trobisco' (2); 'Trobiscos' (2); 'Té silvestre' (1); 'Vimbios' (1); 'Xenxibre' (2); 'Xesimbre' (1); 'Xeximbre' (1); 'Xirasol' (1); 
+#### Realizadas en 3 concellos:ESP. C. Rois (1); ESP. Po. Pontecesures (4); ESP. Po. Valga (83); 
 <img src=img/pixelblue.gif width=100% height=5px>
 
 <img src=img/pixelmagenta.gif width=100% height=5px>
@@ -103,7 +107,3 @@ _Aloe Vera Burm_ (1); _Aloysia citrodora_ (2); _Celidoium Majus_ (1); _Celidoniu
 ### 0 <span style=''>ARQUIVOS</span>:
 
 <img src=img/pixelmagenta.gif width=100% height=5px>
-
-
-<iframe src='https://leafletjs.com/examples/quick-start/example-basic.html' width=100%></iframe>
-
