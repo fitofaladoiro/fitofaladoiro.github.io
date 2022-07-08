@@ -28,6 +28,7 @@ Lu. Monforte de Lemos&nbsp;(39); Lu. Pobra de Brollón&nbsp;(16); Lu. Bóveda&nb
 
 ### 0 <span style=''>ARQUIVOS</span>:
 
+
 <img src='img/pixelmagenta.gif' width='100%' height='5px'>
 
 <img src='img/pixelgrey_25.gif' width='100%' height='25px'>
@@ -58,6 +59,7 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
 - video: 49
 - imaxe: 19
 - son: 17
+
 <img src='img/pixelmagenta.gif' width='100%' height='5px'>
 
 <img src='img/pixelgrey_25.gif' width='100%' height='25px'>
@@ -87,6 +89,7 @@ Po. Cangas&nbsp;(8);
 
 - imaxe: 16
 - outros: 9
+
 <img src='img/pixelmagenta.gif' width='100%' height='5px'>
 
 <img src='img/pixelgrey_25.gif' width='100%' height='25px'>
@@ -113,5 +116,6 @@ Po. Valga&nbsp;(83); Po. Pontecesures&nbsp;(4); C. Rois&nbsp;(1);
 <img src='img/pixelmagenta.gif' width='100%' height='5px'>
 
 ### 0 <span style=''>ARQUIVOS</span>:
+
 
 <img src='img/pixelmagenta.gif' width='100%' height='5px'>
