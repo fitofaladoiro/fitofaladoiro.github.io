@@ -10,6 +10,15 @@
 
 ## [IES Francisco Daviña Rey](http://fitofaladoiro.eu?fich=186tgTeKcOELFC2Xayl6EDYgkjC2Ir9Y9DqDz6926jzg) (Lu. Monforte de Lemos)
 
+
+
+		|col1|col2|
+		|-|-|
+		|dato|dato|
+		
+
+
+		
 <img src='img/pixelgreen.gif' width='100%' height='5px'>
 
 ### 73 PLANTAS mostreadas
@@ -38,6 +47,15 @@ Lu. Monforte de Lemos&nbsp;(39); Lu. Pobra de Brollón&nbsp;(16); Lu. Bóveda&nb
 
 ## [IES Illa de Ons](http://fitofaladoiro.eu?fich=12ejm7IFw5ItM57N0rmbfdWP0mjxlOrkaQ128UjOf8bo) (Po. Bueu)
 
+
+
+		|col1|col2|
+		|-|-|
+		|dato|dato|
+		
+
+
+		
 <img src='img/pixelgreen.gif' width='100%' height='5px'>
 
 ### 35 PLANTAS mostreadas
@@ -69,6 +87,15 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
 
 ## [CPR Plurilingüe Compañía de María](http://fitofaladoiro.eu?fich=1P2Wlz96NfJbmYDDP0kVr2_jdADi66n0YelHwAY4WglA) (Po. Cangas)
 
+
+
+		|col1|col2|
+		|-|-|
+		|dato|dato|
+		
+
+
+		
 <img src='img/pixelgreen.gif' width='100%' height='5px'>
 
 ### 8 PLANTAS mostreadas
@@ -99,6 +126,15 @@ Po. Cangas&nbsp;(8);
 
 ## [IES de Valga](http://fitofaladoiro.eu?fich=108vtcDLGSADF3xEtNlB4_8a0cquOVKFxtg6aUz4LaGk) (Po. Valga)
 
+
+
+		|col1|col2|
+		|-|-|
+		|dato|dato|
+		
+
+
+		
 <img src='img/pixelgreen.gif' width='100%' height='5px'>
 
 ### 88 PLANTAS mostreadas
