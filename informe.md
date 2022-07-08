@@ -15,10 +15,8 @@
 		
 
 | col1 | col2 |
-
-		| - | - |
-
-		| dato | dato |
+| - | - |
+| dato | dato |
 
 		
 
@@ -57,10 +55,8 @@ Lu. Monforte de Lemos&nbsp;(39); Lu. Pobra de Brollón&nbsp;(16); Lu. Bóveda&nb
 		
 
 | col1 | col2 |
-
-		| - | - |
-
-		| dato | dato |
+| - | - |
+| dato | dato |
 
 		
 
@@ -102,10 +98,8 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
 		
 
 | col1 | col2 |
-
-		| - | - |
-
-		| dato | dato |
+| - | - |
+| dato | dato |
 
 		
 
@@ -146,10 +140,8 @@ Po. Cangas&nbsp;(8);
 		
 
 | col1 | col2 |
-
-		| - | - |
-
-		| dato | dato |
+| - | - |
+| dato | dato |
 
 		
 
