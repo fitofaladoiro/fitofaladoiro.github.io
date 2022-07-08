@@ -14,7 +14,7 @@ Adenocarpus complicatus (1); Amarantus spp. (1); Aquilea milefolium (1); Arctium
 ### 73 ENQUISAS:
 
 
-Abrotia (1); Adelfa (1); Agulleira (1); Amores (1); Amorodeira (1); Anís (1); Aquilea (1); Azaia (1); Béldrego (1); Canavela (1); Cardea (1); Carpanza (1); Carqueixa (1); Chicoria (1); Ciruda (1); Codeso (1); Cola de cabalo (1); Colza (1); Correola (1); Corrixola (1); Croque (1); Cáncaro (1); Cópelo (1); Estalote (1); Estoupo (2); Fabaca (1); Fariñento (1); Fenta (1); Fento (2); Fiollo (1); Galo Cristo (1); Hedra (1); Herba de Nuetra Señora (1); Herba do pé rubio (1); Herba moura (1); Lengua de ovella (1); Madreselva (1); Malla (1); Malva (1); Margarita (1); Marrubio (1); Melisa (1); Menta brava (1); Mexacán (1); Morote (1); Muruxa (1); Narciso (1); Nébeda (1); Ortiga (1); Ourego (1); Paciporca (1); Pampilo (1); Perexil (1); Poxo (1); Primavera (1); Reló (1); Romeo (1); Romeu (1); Rosa Brava (1); Rusco (1); Sangre de Cristo (1); Silva Mcha (1); Trevo (1); Tullemerendas (1); Veza (1); Violeta (1); Xario (1); Xesta (1); Xinxebra (1); Xunca (1); Xunco (1); 
+abrotia (1); adelfa (1); agulleira (1); amores (1); amorodeira (1); anís (1); aquilea (1); azaia (1); béldrego (1); canavela (1); cardea (1); carpanza (1); carqueixa (1); chicoria (1); ciruda (1); codeso (1); cola de cabalo (1); colza (1); correola (1); corrixola (1); croque (1); cáncaro (1); cópelo (1); estalote (1); estoupo (2); fabaca (1); fariñento (1); fenta (1); fento (2); fiollo (1); galo cristo (1); hedra (1); herba de nuetra señora (1); herba do pé rubio (1); herba moura (1); lengua de ovella (1); madreselva (1); malla (1); malva (1); margarita (1); marrubio (1); melisa (1); menta brava (1); mexacán (1); morote (1); muruxa (1); narciso (1); nébeda (1); ortiga (1); ourego (1); paciporca (1); pampilo (1); perexil (1); poxo (1); primavera (1); reló (1); romeo (1); romeu (1); rosa brava (1); rusco (1); sangre de cristo (1); silva mcha (1); trevo (1); tullemerendas (1); veza (1); violeta (1); xario (1); xesta (1); xinxebra (1); xunca (1); xunco (1); 
 ### 0 ARQUIVOS:
 
 ___________________
@@ -45,7 +45,7 @@ Agalla de Devonshire (1); Aloysia Citrodora (1); Bellis Perennis (1); Camelia Si
 ### 8 ENQUISAS:
 
 
-camelia (1); couselo (1); hedra (1); herba luísa (1); Margarida (1); Pirinola (1); Romeu /Alecrín (1); simbalaira (1); 
+camelia (1); couselo (1); hedra (1); herba luísa (1); margarida (1); pirinola (1); romeu /alecrín (1); simbalaira (1); 
 ### 25 ARQUIVOS:
 
 - imaxe: 16
@@ -61,5 +61,5 @@ Aloe Vera Burm (1); Aloysia citrodora (2); Celidoium Majus (1); Celidonium majus
 ### 88 ENQUISAS:
 
 
-Albaca (2); Allo (1); Aloe Vera (4); Azafrán (1); Bieiteiro (2); Cardo (2); Celidonia (1); Cola de caballo (1); Croques (1); Dedaleira (1); Estrujas (2); Fiuncho (2); Folla de Col (1); Gengibre (1); Herba Luísa (8); Loureiro (5); Loureiro Bravo (1); Loureiro Manso (1); Manzanilla (1); Margaritas silvestres (1); Menta (5); Orégano (2); Perejil (1); Pirixel (1); Planta das verrugas (1); Planta do millo (1); Planta dos estalos (1); Planta dos estalotes (1); Romeo (1); Romero (6); Romeu (1); Ruda (6); Sabugueiro (1); Sabugueiro negro (1); Salvia (1); Silidonia (2); Siridonia (2); Tomillo (2); Tomiño (2); Trobisco (2); Trobiscos (2); Té silvestre (1); Vimbios (1); Xenxibre (2); Xesimbre (1); Xeximbre (1); Xirasol (1); 
+albaca (2); allo (1); aloe vera (4); azafrán (1); bieiteiro (2); cardo (2); celidonia (1); cola de caballo (1); croques (1); dedaleira (1); estrujas (2); fiuncho (2); folla de col (1); gengibre (1); herba luísa (8); loureiro (5); loureiro bravo (1); loureiro manso (1); manzanilla (1); margaritas silvestres (1); menta (5); orégano (2); perejil (1); pirixel (1); planta das verrugas (1); planta do millo (1); planta dos estalos (1); planta dos estalotes (1); romeo (1); romero (6); romeu (1); ruda (6); sabugueiro (1); sabugueiro negro (1); salvia (1); silidonia (2); siridonia (2); tomillo (2); tomiño (2); trobisco (2); trobiscos (2); té silvestre (1); vimbios (1); xenxibre (2); xesimbre (1); xeximbre (1); xirasol (1); 
 ### 0 ARQUIVOS:
