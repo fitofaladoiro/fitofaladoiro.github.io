@@ -7,7 +7,8 @@ ___________________
 ## [IES Francisco Daviña Rey](http://fitofaladoiro.eu?fich=186tgTeKcOELFC2Xayl6EDYgkjC2Ir9Y9DqDz6926jzg)
 
 
-<img src=img/pixelgreen.gif width=100% height=5px>### 73 PLANTAS:
+<img src=img/pixelgreen.gif width=100% height=5px>
+### 73 PLANTAS:
 _Adenocarpus complicatus_ (1); _Amarantus spp._ (1); _Aquilea milefolium_ (1); _Arctium lapa_ (1); _Arum maculatum_ (1); _Asphodelus spp._ (1); _Athyrium filix-femina_ (1); _Avena sativa_ (1); _Bellis perennis_ (1); _Brassica napus_ (1); _Calamintha nepeta_ (1); _Chelidonium majus_ (1); _Chenopodium album_ (1); _Cichorium pumilum_ (1); _Cistus Philosepalus_ (1); _Colchicum spp._ (1); _Coleostephus myconis_ (1); _Conium maculatum_ (1); _Convolvulus arvensis_ (2); _Cyperus esculentus_ (1); _Cytisus scoparius_ (1); _Digitalis purpurea_ (2); _Equisetum arvense_ (1); _Foeniculum vulgura_ (1); _Fragaria Vesca_ (1); _Fragaria vesca_ (1); _Fumaria agraria_ (1); _Geranium lucidum_ (1); _Hedera helix_ (1); _Hypochoeris radicata_ (1); _Juncus acutus_ (1); _Lavandula pedunculata_ (1); _Lecanthemum vulgare_ (1); _Lonicera caprifolium_ (1); _Lupinus angustifolius_ (1); _Malva silvestris_ (1); _Melissa officinalis_ (1); _Mentha pulegium_ (1); _Mentha suaveolens_ (1); _Narcissus spp._ (1); _Nerium oleander_ (1); _Origanum vulgare_ (1); _Petroselinum crispum_ (1); _Pimpinella anisium_ (1); _Plantago lanceolata_ (1); _Polygonum persicaria_ (1); _Polypodium vulgare_ (1); _Primula vulgaris_ (1); _Prímula acualis_ (1); _Pteridium aquilinum_ (1); _Pterospartum tridentatum_ (1); _Rosa canina_ (2); _Rosmarinus officinalis_ (2); _Rumex crispus_ (1); _Ruscus aculeatus_ (1); _Salanum nigrum_ (1); _Serapias lingua_ (1); _Stellaria holostea_ (1); _Stellaria media_ (1); _Tanacetum parthenium_ (1); _Taraxacum officinale_ (2); _Teucrium scorodonia_ (1); _Trifolium patrense_ (1); _Umbilicus rupestris_ (2); _Urtica dioica_ (1); _Vicia angustifolia_ (1); _Viola riviniana_ (1); 
 <img src=img/pixelgreen.gif width=100% height=5px>
 
@@ -29,7 +30,8 @@ ___________________
 ## [IES Illa de Ons](http://fitofaladoiro.eu?fich=12ejm7IFw5ItM57N0rmbfdWP0mjxlOrkaQ128UjOf8bo)
 
 
-<img src=img/pixelgreen.gif width=100% height=5px>### 35 PLANTAS:
+<img src=img/pixelgreen.gif width=100% height=5px>
+### 35 PLANTAS:
 _Aloysia citrodora_ (1); _Chelidonium majus_ (2); _Foeniculum vulgare_ (2); _Fucus sp._ (1); _Helichrysum foetidum_ (1); _Iris pseudacorus_ (1); _Laminaria sp._ (1); _Laurus nobilis_ (3); _Lavandula_ (1); _Lippia citriodora_ (1); _Malva sp._ (1); _Malva sylvestris_ (1); _Mentha sp._ (1); _Mentha suaveolens_ (3); _Ocimum basilicum_ (1); _Pisum sativum_ (2); _Rosa sp._ (1); _Ruta chalepensis_ (2); _Saccorhiza polyschides_ (1); _Salvia rosmarinus_ (1); _Sambucus nigra_ (2); _Ulex europaeus_ (1); _Urtica dioica_ (1); _Urtica sp._ (2); _Zea mays_ (2); 
 <img src=img/pixelgreen.gif width=100% height=5px>
 
@@ -54,7 +56,8 @@ ___________________
 ## [CPR Plurilingüe Compañía de María](http://fitofaladoiro.eu?fich=1P2Wlz96NfJbmYDDP0kVr2_jdADi66n0YelHwAY4WglA)
 
 
-<img src=img/pixelgreen.gif width=100% height=5px>### 8 PLANTAS:
+<img src=img/pixelgreen.gif width=100% height=5px>
+### 8 PLANTAS:
 _Agalla de Devonshire_ (1); _Aloysia Citrodora_ (1); _Bellis Perennis_ (1); _Camelia Sinensis_ (1); _Cymbalaria muralis_ (1); _Hedera Helix_ (1); _Salvia Rosmarinus_ (1); _Umbilicus rupestris_ (1); 
 <img src=img/pixelgreen.gif width=100% height=5px>
 
@@ -78,7 +81,8 @@ ___________________
 ## [IES de Valga](http://fitofaladoiro.eu?fich=108vtcDLGSADF3xEtNlB4_8a0cquOVKFxtg6aUz4LaGk)
 
 
-<img src=img/pixelgreen.gif width=100% height=5px>### 88 PLANTAS:
+<img src=img/pixelgreen.gif width=100% height=5px>
+### 88 PLANTAS:
 _Aloe Vera Burm_ (1); _Aloysia citrodora_ (2); _Celidoium Majus_ (1); _Celidonium majus_ (1); _Digitalis purpurea_ (1); _Equisetum arvense_ (1); _Laurus Nobilis_ (1); _Mentha_ (1); _Petroselinum crispum_ (1); _Rosmarinus officinalis_ (2); _Ruta Graveolens_ (1); _Sambucus nigra_ (2); _Thymus vulgaris_ (1); 
 <img src=img/pixelgreen.gif width=100% height=5px>
 
