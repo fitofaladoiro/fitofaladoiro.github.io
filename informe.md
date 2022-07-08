@@ -8,7 +8,7 @@
 
 <img src='img/pixelgrey_25.gif' width='100%' height='25px'>
 
-## [IES Francisco Daviña Rey](http://fitofaladoiro.eu?fich=186tgTeKcOELFC2Xayl6EDYgkjC2Ir9Y9DqDz6926jzg) (ESP. Lu. Monforte de Lemos)
+## [IES Francisco Daviña Rey](http://fitofaladoiro.eu?fich=186tgTeKcOELFC2Xayl6EDYgkjC2Ir9Y9DqDz6926jzg) (Lu. Monforte de Lemos)
 
 <img src='img/pixelgreen.gif' width='100%' height='5px'>
 
@@ -36,7 +36,7 @@ Lu. Monforte de Lemos&nbsp;(39); Lu. Pobra de Brollón&nbsp;(16); Lu. Bóveda&nb
 
 <img src='img/pixelgrey_25.gif' width='100%' height='25px'>
 
-## [IES Illa de Ons](http://fitofaladoiro.eu?fich=12ejm7IFw5ItM57N0rmbfdWP0mjxlOrkaQ128UjOf8bo) (ESP. Po. Bueu)
+## [IES Illa de Ons](http://fitofaladoiro.eu?fich=12ejm7IFw5ItM57N0rmbfdWP0mjxlOrkaQ128UjOf8bo) (Po. Bueu)
 
 <img src='img/pixelgreen.gif' width='100%' height='5px'>
 
@@ -67,7 +67,7 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
 
 <img src='img/pixelgrey_25.gif' width='100%' height='25px'>
 
-## [CPR Plurilingüe Compañía de María](http://fitofaladoiro.eu?fich=1P2Wlz96NfJbmYDDP0kVr2_jdADi66n0YelHwAY4WglA) (ESP. Po. Cangas)
+## [CPR Plurilingüe Compañía de María](http://fitofaladoiro.eu?fich=1P2Wlz96NfJbmYDDP0kVr2_jdADi66n0YelHwAY4WglA) (Po. Cangas)
 
 <img src='img/pixelgreen.gif' width='100%' height='5px'>
 
@@ -97,7 +97,7 @@ Po. Cangas&nbsp;(8);
 
 <img src='img/pixelgrey_25.gif' width='100%' height='25px'>
 
-## [IES de Valga](http://fitofaladoiro.eu?fich=108vtcDLGSADF3xEtNlB4_8a0cquOVKFxtg6aUz4LaGk) (ESP. Po. Valga)
+## [IES de Valga](http://fitofaladoiro.eu?fich=108vtcDLGSADF3xEtNlB4_8a0cquOVKFxtg6aUz4LaGk) (Po. Valga)
 
 <img src='img/pixelgreen.gif' width='100%' height='5px'>
 
