@@ -2,10 +2,11 @@
 
 # INFORME CURSO 2021-2022
 
-<style>
-		#PLA {padding:5px; border: 1px dashed green;}
-		#ENQ {padding:5px; border: 1px dashed blue;}
-		#ARQ {padding:5px; border: 1px dashed magenta;}
+
+		<style>
+		.PLA {padding:5px; border: 1px dashed green;}
+		.ENQ {padding:5px; border: 1px dashed blue;}
+		.ARQ {padding:5px; border: 1px dashed magenta;}
 		</style>
 		
 ___________________
