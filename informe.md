@@ -3,11 +3,18 @@
 # INFORME CURSO 2021-2022
 
 
-		<style>
+
+<style>
+
+
 		.PLA {padding:5px; border: 1px dashed green;}
 		.ENQ {padding:5px; border: 1px dashed blue;}
 		.ARQ {padding:5px; border: 1px dashed magenta;}
-		</style>
+		
+
+</style>
+
+
 		
 ___________________
 ## [IES Francisco Daviña Rey](http://fitofaladoiro.eu?fich=186tgTeKcOELFC2Xayl6EDYgkjC2Ir9Y9DqDz6926jzg)
