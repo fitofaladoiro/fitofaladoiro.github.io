@@ -29,7 +29,7 @@ Lu. Monforte de Lemos&nbsp;(39); Lu. Pobra de Brollón&nbsp;(16); Lu. Bóveda&nb
 
 <img src='img/pixelmagenta.gif' width='100%' height='5px'>
 
-### 0 ARQUIVOS dan testemuña do traballo
+### 0 ARQUIVOS complementan o traballo
 
 
 <img src='img/pixelmagenta.gif' width='100%' height='5px'>
@@ -57,7 +57,7 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
 
 <img src='img/pixelmagenta.gif' width='100%' height='5px'>
 
-### 75 ARQUIVOS dan testemuña do traballo
+### 75 ARQUIVOS complementan o traballo
 
 - video: 49
 - imaxe: 19
@@ -88,7 +88,7 @@ Po. Cangas&nbsp;(8);
 
 <img src='img/pixelmagenta.gif' width='100%' height='5px'>
 
-### 25 ARQUIVOS dan testemuña do traballo
+### 25 ARQUIVOS complementan o traballo
 
 - imaxe: 16
 - outros: 9
@@ -118,7 +118,7 @@ Po. Valga&nbsp;(83); Po. Pontecesures&nbsp;(4); C. Rois&nbsp;(1);
 
 <img src='img/pixelmagenta.gif' width='100%' height='5px'>
 
-### 0 ARQUIVOS dan testemuña do traballo
+### 0 ARQUIVOS complementan o traballo
 
 
 <img src='img/pixelmagenta.gif' width='100%' height='5px'>
