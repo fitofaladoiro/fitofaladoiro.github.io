@@ -3,9 +3,7 @@
 # INFORME CURSO 2021-2022
 
 
-___________________
 ## [IES Francisco Daviña Rey](http://fitofaladoiro.eu?fich=186tgTeKcOELFC2Xayl6EDYgkjC2Ir9Y9DqDz6926jzg)
-
 
 <img src=img/pixelgreen.gif width=100% height=5px>
 
@@ -27,9 +25,7 @@ _Adenocarpus complicatus_ (1); _Amarantus spp._ (1); _Aquilea milefolium_ (1); _
 
 <img src=img/pixelmagenta.gif width=100% height=5px>
 
-___________________
 ## [IES Illa de Ons](http://fitofaladoiro.eu?fich=12ejm7IFw5ItM57N0rmbfdWP0mjxlOrkaQ128UjOf8bo)
-
 
 <img src=img/pixelgreen.gif width=100% height=5px>
 
@@ -54,9 +50,7 @@ _Aloysia citrodora_ (1); _Chelidonium majus_ (2); _Foeniculum vulgare_ (2); _Fuc
 - son: 17
 <img src=img/pixelmagenta.gif width=100% height=5px>
 
-___________________
 ## [CPR Plurilingüe Compañía de María](http://fitofaladoiro.eu?fich=1P2Wlz96NfJbmYDDP0kVr2_jdADi66n0YelHwAY4WglA)
-
 
 <img src=img/pixelgreen.gif width=100% height=5px>
 
@@ -80,9 +74,7 @@ _Agalla de Devonshire_ (1); _Aloysia Citrodora_ (1); _Bellis Perennis_ (1); _Cam
 - outros: 9
 <img src=img/pixelmagenta.gif width=100% height=5px>
 
-___________________
 ## [IES de Valga](http://fitofaladoiro.eu?fich=108vtcDLGSADF3xEtNlB4_8a0cquOVKFxtg6aUz4LaGk)
-
 
 <img src=img/pixelgreen.gif width=100% height=5px>
 
