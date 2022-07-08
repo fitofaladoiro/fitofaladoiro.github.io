@@ -3,7 +3,7 @@
 # INFORME CURSO 2021-2022
 
 
-| Este é un sumario dos datos recollidos polos participantes no _Fitofaladoiro_ durante o curso 2021-2022.Os centros que non cubriron as táboas de recollida de datos nin compartiron os seus arquivos segundo o protocolo establecido, non poden ser contabilizados. | <img src='img/fitofaladoiro_animado_transparente.gif'> |
+| Este é un sumario dos datos recollidos polos participantes no _Fitofaladoiro_ durante o curso 2021-2022.  Os centros que non cubriron as táboas de recollida de datos nin compartiron os seus arquivos segundo o protocolo establecido, non poden ser contabilizados. | <img src='img/fitofaladoiro_animado_transparente.gif'> |
 | - | - |
 
 <img src='img/pixelgrey_25.gif' width='100%' height='25px'>
