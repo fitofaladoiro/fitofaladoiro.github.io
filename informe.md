@@ -4,7 +4,11 @@
 
 
 
-| Este é un sumario dos datos recollidos polos participantes no _Fitofaladoiro_ durante o curso 2021-2022.   <br />Non se contabilizan os centros que non cubriron as táboas de recollida de datos nin compartiron os seus arquivos segundo o protocolo establecido.<br /><p style="color:blue">Make this text blue.</p> ... and now <font color="red">this text is red!</font>> :warning: **Warning:** Do not push the big red button.> :memo: **Note:** Sunrises are beautiful.> :bulb: **Tip:** Remember to appreciate the little things in life. | <img src='img/fitofaladoiro_animado_transparente.gif'> |
+| Este é un sumario dos datos recollidos polos participantes no _Fitofaladoiro_ durante o curso 2021-2022.   <br />Non se contabilizan os centros que non cubriron as táboas de recollida de datos nin compartiron os seus arquivos segundo o protocolo establecido.<br /><p style="color:blue">Make this text blue.</p> ... and now <font color="red">this text is red!</font>
+
+> :warning: **Warning:** Do not push the big red button.
+> :memo: **Note:** Sunrises are beautiful.
+> :bulb: **Tip:** Remember to appreciate the little things in life. | <img src='img/fitofaladoiro_animado_transparente.gif'> |
 | :--- | --- |
 
 <img src='img/pixelgrey_25.gif' width='100%' height='25px'>
