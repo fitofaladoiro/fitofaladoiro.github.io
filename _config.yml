@@ -1,5 +1,6 @@
 name: test.pages
-title: null
+title: null # null para que non apareza o título ao comezo de cada máxina .md
+# markdown: kramdown # cambiado para poder usar táboas https://github.com/pages-themes/cayman/issues/82#issuecomment-613349240
 markdown: GFM
 plugins:
-  - jemoji
+  - jemoji # metido para que furrulen os emojis 
