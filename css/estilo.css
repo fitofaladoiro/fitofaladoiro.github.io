@@ -1,7 +1,7 @@
-.divpla {padding:5px; border:1px solid lightgreen;}
-.divenq {margin:5px; border:1px solid cyan;}
-.divarq {padding:5px; border:1px solid magenta;}
-.PLA {background:lightgreen;}
+.divpla {padding:5px; border:2px solid lightgreen;}
+.divenq {padding:5px; border:2px solid cyan;}
+.divarq {padding:5px; border:2px solid magenta;}
+.PLA {background:cyan;}
 .ENQ {background:cyan;}
 .ARQ {background:magenta;}
-.centro {} 
+.participante {background:lightgrey;} 
