@@ -4,7 +4,7 @@
 
 
 
-| Este é un sumario dos datos recollidos polos participantes no _Fitofaladoiro_ durante o curso 2021-2022.   <br />Non se contabilizan os centros que non cubriron as súas táboas de recollida de datos nin compartiron os seus arquivos segundo o protocolo establecido. | <img src='img/fitofaladoiro_animado_transparente.gif'> |
+| Este é un sumario dos datos recollidos polos participantes no _Fitofaladoiro_ durante o curso 2021-2022.   <br />Non se contabilizan os centros que non cubriron as súas táboas de recollida de datos nin compartiron os seus arquivos segundo o protocolo establecido. | <img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==" alt="Red dot" /> |
 | :--- | --- |
 
 
