@@ -1,4 +1,4 @@
-<style>.PLA {background:lightgreen;} .ENQ {background:cyan;} .ARQ {background:magenta;} .centro {} </style>
+<link rel="stylesheet" href="./css/estilo.css">
 
 # INFORME CURSO 2021-2022
 
