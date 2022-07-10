@@ -1,5 +1,5 @@
 .divpla {padding:5px; border:1px solid lightgreen;}
-.divenq {padding:5px; border:1px solid cyan;}
+.divenq {margin:5px; border:1px solid cyan;}
 .divarq {padding:5px; border:1px solid magenta;}
 .PLA {background:lightgreen;}
 .ENQ {background:cyan;}
