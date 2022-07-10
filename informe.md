@@ -4,7 +4,7 @@
 
 
 
-| Este é un sumario dos datos recollidos polos participantes no _Fitofaladoiro_ durante o curso 2021-2022.   <br />Non se contabilizan os centros que non cubriron as táboas de recollida de datos nin compartiron os seus arquivos segundo o protocolo establecido. | <img src='img/fitofaladoiro_animado_transparente.gif'> |
+| Este é un sumario dos datos recollidos polos participantes no _Fitofaladoiro_ durante o curso 2021-2022.   <br />Non se contabilizan os centros que non cubriron as súas táboas de recollida de datos nin compartiron os seus arquivos segundo o protocolo establecido. | <img src='img/fitofaladoiro_animado_transparente.gif'> |
 | :--- | --- |
 
 
@@ -29,7 +29,7 @@ _Adenocarpus complicatus_&nbsp;(1); _Amarantus spp._&nbsp;(1); _Aquilea milefoli
 
 <img src='img/pixelcyan.gif' width='100%' height='5px'>
 
-<div style='border=1px solid cyan;'>
+<div style='border: 1px solid cyan;'>
 
 ### 73 <span style='background:cyan;'>ENQUISAS</span> realizadas
 
@@ -60,7 +60,7 @@ _Aloysia citrodora_&nbsp;(1); _Chelidonium majus_&nbsp;(2); _Foeniculum vulgare_
 
 <img src='img/pixelcyan.gif' width='100%' height='5px'>
 
-<div style='border=1px solid cyan;'>
+<div style='border: 1px solid cyan;'>
 
 ### 65 <span style='background:cyan;'>ENQUISAS</span> realizadas
 
@@ -94,7 +94,7 @@ _Agalla de Devonshire_&nbsp;(1); _Aloysia Citrodora_&nbsp;(1); _Bellis Perennis_
 
 <img src='img/pixelcyan.gif' width='100%' height='5px'>
 
-<div style='border=1px solid cyan;'>
+<div style='border: 1px solid cyan;'>
 
 ### 8 <span style='background:cyan;'>ENQUISAS</span> realizadas
 
@@ -127,7 +127,7 @@ _Aloe Vera Burm_&nbsp;(1); _Aloysia citrodora_&nbsp;(2); _Celidoium Majus_&nbsp;
 
 <img src='img/pixelcyan.gif' width='100%' height='5px'>
 
-<div style='border=1px solid cyan;'>
+<div style='border: 1px solid cyan;'>
 
 ### 88 <span style='background:cyan;'>ENQUISAS</span> realizadas
 
