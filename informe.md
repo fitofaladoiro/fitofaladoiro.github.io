@@ -1,11 +1,4 @@
-
-	<style>
-	.PLA {background:lightgreen;}
-	.ENQ {background:cyan;}
-	.ARQ {background:magenta;}
-	.centro {}
-	</style>
-	
+<style>.PLA {background:lightgreen;} .ENQ {background:cyan;} .ARQ {background:magenta;} .centro {} </style>
 
 # INFORME CURSO 2021-2022
 
