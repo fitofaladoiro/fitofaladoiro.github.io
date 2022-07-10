@@ -29,6 +29,8 @@ _Adenocarpus complicatus_&nbsp;(1); _Amarantus spp._&nbsp;(1); _Aquilea milefoli
 
 <img src='img/pixelcyan.gif' width='100%' height='5px'>
 
+<div style='border=1px solid cyan;'>
+
 ### 73 <span style='background:cyan;'>ENQUISAS</span> realizadas
 
 
@@ -36,8 +38,9 @@ _Adenocarpus complicatus_&nbsp;(1); _Amarantus spp._&nbsp;(1); _Aquilea milefoli
 #### Datos procedentes de 5 concellos:
 
 Lu. Monforte de Lemos&nbsp;(39); Lu. Pobra de Brollón&nbsp;(16); Lu. Bóveda&nbsp;(10); Lu. Paradela&nbsp;(5); Lu. Saviñao, O&nbsp;(3); 
-<img src='img/pixelblue.gif' width='100%' height='5px'>
+<img src='img/pixelcyan.gif' width='100%' height='5px'>
 
+</div>
 <img src='img/pixelmagenta.gif' width='100%' height='5px'>
 
 ### 0 <span style='background:magenta;'>ARQUIVOS</span> complementan o traballo
@@ -57,6 +60,8 @@ _Aloysia citrodora_&nbsp;(1); _Chelidonium majus_&nbsp;(2); _Foeniculum vulgare_
 
 <img src='img/pixelcyan.gif' width='100%' height='5px'>
 
+<div style='border=1px solid cyan;'>
+
 ### 65 <span style='background:cyan;'>ENQUISAS</span> realizadas
 
 
@@ -64,8 +69,9 @@ _Aloysia citrodora_&nbsp;(1); _Chelidonium majus_&nbsp;(2); _Foeniculum vulgare_
 #### Datos procedentes de 6 concellos:
 
 Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&nbsp;(2); C. Cedeira&nbsp;(1); Lu. Lourenzá&nbsp;(1); 
-<img src='img/pixelblue.gif' width='100%' height='5px'>
+<img src='img/pixelcyan.gif' width='100%' height='5px'>
 
+</div>
 <img src='img/pixelmagenta.gif' width='100%' height='5px'>
 
 ### 75 <span style='background:magenta;'>ARQUIVOS</span> complementan o traballo
@@ -88,6 +94,8 @@ _Agalla de Devonshire_&nbsp;(1); _Aloysia Citrodora_&nbsp;(1); _Bellis Perennis_
 
 <img src='img/pixelcyan.gif' width='100%' height='5px'>
 
+<div style='border=1px solid cyan;'>
+
 ### 8 <span style='background:cyan;'>ENQUISAS</span> realizadas
 
 
@@ -95,8 +103,9 @@ _Agalla de Devonshire_&nbsp;(1); _Aloysia Citrodora_&nbsp;(1); _Bellis Perennis_
 #### Datos procedentes de 1 concellos:
 
 Po. Cangas&nbsp;(8); 
-<img src='img/pixelblue.gif' width='100%' height='5px'>
+<img src='img/pixelcyan.gif' width='100%' height='5px'>
 
+</div>
 <img src='img/pixelmagenta.gif' width='100%' height='5px'>
 
 ### 25 <span style='background:magenta;'>ARQUIVOS</span> complementan o traballo
@@ -118,6 +127,8 @@ _Aloe Vera Burm_&nbsp;(1); _Aloysia citrodora_&nbsp;(2); _Celidoium Majus_&nbsp;
 
 <img src='img/pixelcyan.gif' width='100%' height='5px'>
 
+<div style='border=1px solid cyan;'>
+
 ### 88 <span style='background:cyan;'>ENQUISAS</span> realizadas
 
 
@@ -125,8 +136,9 @@ _Aloe Vera Burm_&nbsp;(1); _Aloysia citrodora_&nbsp;(2); _Celidoium Majus_&nbsp;
 #### Datos procedentes de 3 concellos:
 
 Po. Valga&nbsp;(83); Po. Pontecesures&nbsp;(4); C. Rois&nbsp;(1); 
-<img src='img/pixelblue.gif' width='100%' height='5px'>
+<img src='img/pixelcyan.gif' width='100%' height='5px'>
 
+</div>
 <img src='img/pixelmagenta.gif' width='100%' height='5px'>
 
 ### 0 <span style='background:magenta;'>ARQUIVOS</span> complementan o traballo
