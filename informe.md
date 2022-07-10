@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="./css/estilo.css">
+<link rel="stylesheet" href="css/estilo.css">
 
 # INFORME CURSO 2021-2022
 
