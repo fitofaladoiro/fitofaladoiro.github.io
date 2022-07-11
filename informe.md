@@ -15,7 +15,7 @@
 
 </div>
 
-<div class='divpla'>
+<div class='divpla divseccion'>
 
 ### 73 <span class='PLA'>PLANTAS</span> mostreadas
  :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
@@ -23,7 +23,7 @@
 _Adenocarpus complicatus_&nbsp;(1); _Amarantus spp._&nbsp;(1); _Aquilea milefolium_&nbsp;(1); _Arctium lapa_&nbsp;(1); _Arum maculatum_&nbsp;(1); _Asphodelus spp._&nbsp;(1); _Athyrium filix-femina_&nbsp;(1); _Avena sativa_&nbsp;(1); _Bellis perennis_&nbsp;(1); _Brassica napus_&nbsp;(1); _Calamintha nepeta_&nbsp;(1); _Chelidonium majus_&nbsp;(1); _Chenopodium album_&nbsp;(1); _Cichorium pumilum_&nbsp;(1); _Cistus Philosepalus_&nbsp;(1); _Colchicum spp._&nbsp;(1); _Coleostephus myconis_&nbsp;(1); _Conium maculatum_&nbsp;(1); _Convolvulus arvensis_&nbsp;(2); _Cyperus esculentus_&nbsp;(1); _Cytisus scoparius_&nbsp;(1); _Digitalis purpurea_&nbsp;(2); _Equisetum arvense_&nbsp;(1); _Foeniculum vulgura_&nbsp;(1); _Fragaria Vesca_&nbsp;(1); _Fragaria vesca_&nbsp;(1); _Fumaria agraria_&nbsp;(1); _Geranium lucidum_&nbsp;(1); _Hedera hibernica_&nbsp;(1); _Hypochoeris radicata_&nbsp;(1); _Juncus acutus_&nbsp;(1); _Lavandula pedunculata_&nbsp;(1); _Lecanthemum vulgare_&nbsp;(1); _Lonicera caprifolium_&nbsp;(1); _Lupinus angustifolius_&nbsp;(1); _Malva silvestris_&nbsp;(1); _Melissa officinalis_&nbsp;(1); _Mentha pulegium_&nbsp;(1); _Mentha suaveolens_&nbsp;(1); _Narcissus spp._&nbsp;(1); _Nerium oleander_&nbsp;(1); _Origanum vulgare_&nbsp;(1); _Petroselinum crispum_&nbsp;(1); _Pimpinella anisium_&nbsp;(1); _Plantago lanceolata_&nbsp;(1); _Polygonum persicaria_&nbsp;(1); _Polypodium vulgare_&nbsp;(1); _Primula vulgaris_&nbsp;(1); _Prímula acualis_&nbsp;(1); _Pteridium aquilinum_&nbsp;(1); _Pterospartum tridentatum_&nbsp;(1); _Rosa canina_&nbsp;(2); _Rosmarinus officinalis_&nbsp;(2); _Rumex crispus_&nbsp;(1); _Ruscus aculeatus_&nbsp;(1); _Salanum nigrum_&nbsp;(1); _Serapias lingua_&nbsp;(1); _Stellaria holostea_&nbsp;(1); _Stellaria media_&nbsp;(1); _Tanacetum parthenium_&nbsp;(1); _Taraxacum officinale_&nbsp;(2); _Teucrium scorodonia_&nbsp;(1); _Trifolium patrense_&nbsp;(1); _Umbilicus rupestris_&nbsp;(2); _Urtica dioica_&nbsp;(1); _Vicia angustifolia_&nbsp;(1); _Viola riviniana_&nbsp;(1); 
 </div>
 
-<div class='divenq'>
+<div class='divenq divseccion'>
 
 ### 73 <span class='ENQ'>ENQUISAS</span> realizadas
  :notebook: :pencil2: :microphone: :older_man: :older_woman: :movie_camera: :question: :pencil: 
@@ -36,7 +36,7 @@ _Adenocarpus complicatus_&nbsp;(1); _Amarantus spp._&nbsp;(1); _Aquilea milefoli
 Lu. Monforte de Lemos&nbsp;(39); Lu. Pobra de Brollón&nbsp;(16); Lu. Bóveda&nbsp;(10); Lu. Paradela&nbsp;(5); Lu. Saviñao, O&nbsp;(3); 
 </div>
 
-<div class='divarq'>
+<div class='divarq divseccion'>
 
 ### 0 <span class='ARQ'>ARQUIVOS</span> complementan o traballo 
  :file_cabinet: :open_file_folder: :floppy_disk: 
@@ -56,7 +56,7 @@ Lu. Monforte de Lemos&nbsp;(39); Lu. Pobra de Brollón&nbsp;(16); Lu. Bóveda&nb
 
 </div>
 
-<div class='divpla'>
+<div class='divpla divseccion'>
 
 ### 35 <span class='PLA'>PLANTAS</span> mostreadas
  :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
@@ -64,7 +64,7 @@ Lu. Monforte de Lemos&nbsp;(39); Lu. Pobra de Brollón&nbsp;(16); Lu. Bóveda&nb
 _Aloysia citrodora_&nbsp;(1); _Chelidonium majus_&nbsp;(2); _Foeniculum vulgare_&nbsp;(2); _Fucus sp._&nbsp;(1); _Helichrysum foetidum_&nbsp;(1); _Iris pseudacorus_&nbsp;(1); _Laminaria sp._&nbsp;(1); _Laurus nobilis_&nbsp;(3); _Lavandula_&nbsp;(1); _Lippia citriodora_&nbsp;(1); _Malva sp._&nbsp;(1); _Malva sylvestris_&nbsp;(1); _Mentha sp._&nbsp;(1); _Mentha suaveolens_&nbsp;(3); _Ocimum basilicum_&nbsp;(1); _Pisum sativum_&nbsp;(2); _Rosa sp._&nbsp;(1); _Ruta chalepensis_&nbsp;(2); _Saccorhiza polyschides_&nbsp;(1); _Salvia rosmarinus_&nbsp;(1); _Sambucus nigra_&nbsp;(2); _Ulex europaeus_&nbsp;(1); _Urtica dioica_&nbsp;(1); _Urtica sp._&nbsp;(2); _Zea mays_&nbsp;(2); 
 </div>
 
-<div class='divenq'>
+<div class='divenq divseccion'>
 
 ### 65 <span class='ENQ'>ENQUISAS</span> realizadas
  :notebook: :pencil2: :microphone: :older_man: :older_woman: :movie_camera: :question: :pencil: 
@@ -77,7 +77,7 @@ _Aloysia citrodora_&nbsp;(1); _Chelidonium majus_&nbsp;(2); _Foeniculum vulgare_
 Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&nbsp;(2); C. Cedeira&nbsp;(1); Lu. Lourenzá&nbsp;(1); 
 </div>
 
-<div class='divarq'>
+<div class='divarq divseccion'>
 
 ### 75 <span class='ARQ'>ARQUIVOS</span> complementan o traballo 
  :file_cabinet: :open_file_folder: :floppy_disk: 
@@ -88,7 +88,7 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
 - son: 17 :sound: 
 </div>
 
-<div class='divinf'>
+<div class='divinf divseccion'>
 
 ### 2 <span class='INF'>RECURSOS WEB</span> relacionados 
  :link: 
@@ -110,7 +110,7 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
 
 </div>
 
-<div class='divpla'>
+<div class='divpla divseccion'>
 
 ### 8 <span class='PLA'>PLANTAS</span> mostreadas
  :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
@@ -118,7 +118,7 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
 _Agalla de Devonshire_&nbsp;(1); _Aloysia Citrodora_&nbsp;(1); _Bellis Perennis_&nbsp;(1); _Camelia Sinensis_&nbsp;(1); _Cymbalaria muralis_&nbsp;(1); _Hedera Helix_&nbsp;(1); _Salvia Rosmarinus_&nbsp;(1); _Umbilicus rupestris_&nbsp;(1); 
 </div>
 
-<div class='divenq'>
+<div class='divenq divseccion'>
 
 ### 8 <span class='ENQ'>ENQUISAS</span> realizadas
  :notebook: :pencil2: :microphone: :older_man: :older_woman: :movie_camera: :question: :pencil: 
@@ -131,7 +131,7 @@ _Agalla de Devonshire_&nbsp;(1); _Aloysia Citrodora_&nbsp;(1); _Bellis Perennis_
 Po. Cangas&nbsp;(8); 
 </div>
 
-<div class='divarq'>
+<div class='divarq divseccion'>
 
 ### 25 <span class='ARQ'>ARQUIVOS</span> complementan o traballo 
  :file_cabinet: :open_file_folder: :floppy_disk: 
@@ -141,7 +141,7 @@ Po. Cangas&nbsp;(8);
 - outros: 9 :notebook: :question: 
 </div>
 
-<div class='divinf'>
+<div class='divinf divseccion'>
 
 ### 1 <span class='INF'>RECURSOS WEB</span> relacionados 
  :link: 
@@ -162,7 +162,7 @@ Po. Cangas&nbsp;(8);
 
 </div>
 
-<div class='divpla'>
+<div class='divpla divseccion'>
 
 ### 88 <span class='PLA'>PLANTAS</span> mostreadas
  :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
@@ -170,7 +170,7 @@ Po. Cangas&nbsp;(8);
 _Aloe Vera Burm_&nbsp;(1); _Aloysia citrodora_&nbsp;(2); _Celidoium Majus_&nbsp;(1); _Celidonium majus_&nbsp;(1); _Digitalis purpurea_&nbsp;(1); _Equisetum arvense_&nbsp;(1); _Laurus Nobilis_&nbsp;(1); _Mentha_&nbsp;(1); _Petroselinum crispum_&nbsp;(1); _Rosmarinus officinalis_&nbsp;(2); _Ruta Graveolens_&nbsp;(1); _Sambucus nigra_&nbsp;(2); _Thymus vulgaris_&nbsp;(1); 
 </div>
 
-<div class='divenq'>
+<div class='divenq divseccion'>
 
 ### 88 <span class='ENQ'>ENQUISAS</span> realizadas
  :notebook: :pencil2: :microphone: :older_man: :older_woman: :movie_camera: :question: :pencil: 
@@ -183,7 +183,7 @@ _Aloe Vera Burm_&nbsp;(1); _Aloysia citrodora_&nbsp;(2); _Celidoium Majus_&nbsp;
 Po. Valga&nbsp;(83); Po. Pontecesures&nbsp;(4); C. Rois&nbsp;(1); 
 </div>
 
-<div class='divarq'>
+<div class='divarq divseccion'>
 
 ### 0 <span class='ARQ'>ARQUIVOS</span> complementan o traballo 
  :file_cabinet: :open_file_folder: :floppy_disk: 
