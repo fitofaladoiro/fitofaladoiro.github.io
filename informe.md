@@ -122,7 +122,7 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
 
 <div class='divinf'>
 
-### 2 <span style='background:magenta;'>RECURSOS WEB</span> relacionados 
+### 2 <span class='INF'>RECURSOS WEB</span> relacionados 
  :web: 
 
 
@@ -188,7 +188,7 @@ Po. Cangas&nbsp;(8);
 
 <div class='divinf'>
 
-### 1 <span style='background:magenta;'>RECURSOS WEB</span> relacionados 
+### 1 <span class='INF'>RECURSOS WEB</span> relacionados 
  :web: 
 
 
