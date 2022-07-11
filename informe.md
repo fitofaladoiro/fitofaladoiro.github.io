@@ -136,6 +136,12 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
 1,Fitofaladoiro Ons - páxina web antiga,Páxina que recolle unha selección dos traballos relacionados co Proxecto Fitofaladoiro 2015/2016 no noso centro: http://fitofaladoirons.wix.com/ies-illa-ons-bueu,12ejm7IFw5ItM57N0rmbfdWP0mjxlOrkaQ128UjOf8bo
 
 </pre>
+- APARTADO: 0    Fitofaladoiro Ons - páxina web actual
+1    Fitofaladoiro Ons - páxina web antiga
+Name: APARTADO, dtype: object
+- TEXTO: 0    https://sites.google.com/view/fitofaladoiro-on...
+1    Páxina que recolle unha selección dos traballo...
+Name: TEXTO, dtype: object
 </div>
 
 
@@ -204,6 +210,10 @@ Po. Cangas&nbsp;(8);
 2,"""A lingua da Natureza""","O noso blog, que esperamos seguir aumentando podedes consultalo na seguinte ligazón:  https://fitofaladoirociamariacangas.blogspot.com/",1P2Wlz96NfJbmYDDP0kVr2_jdADi66n0YelHwAY4WglA
 
 </pre>
+- APARTADO: 2    "A lingua da Natureza"
+Name: APARTADO, dtype: object
+- TEXTO: 2    O noso blog, que esperamos seguir aumentando p...
+Name: TEXTO, dtype: object
 </div>
 
 
