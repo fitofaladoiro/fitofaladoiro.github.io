@@ -6,13 +6,11 @@
 
 | Este é un sumario dos datos recollidos polos participantes no _Fitofaladoiro_ durante o curso 2021-2022.   <br />Non se contabilizan os centros que non cubriron as súas táboas de recollida de datos nin compartiron os seus arquivos segundo o protocolo establecido. | <img src='img/fitofaladoiro_animado_transparente.gif'> |
 | :--- | --- |
-<div class='divpart'><div class='divpartit'>
+<br /><div class='divpart'><div class='divpartit'>
 
 ## <span class='participante'>[IES Francisco Daviña Rey](http://fitofaladoiro.eu?fich=186tgTeKcOELFC2Xayl6EDYgkjC2Ir9Y9DqDz6926jzg) (Lu. Monforte de Lemos)</span>
 
 </div>
-
-<img src='img/pixelgreen.gif' width='100%' height='5px'>
 
 <div class='divpla'>
 
@@ -22,13 +20,9 @@
 _Adenocarpus complicatus_&nbsp;(1); _Amarantus spp._&nbsp;(1); _Aquilea milefolium_&nbsp;(1); _Arctium lapa_&nbsp;(1); _Arum maculatum_&nbsp;(1); _Asphodelus spp._&nbsp;(1); _Athyrium filix-femina_&nbsp;(1); _Avena sativa_&nbsp;(1); _Bellis perennis_&nbsp;(1); _Brassica napus_&nbsp;(1); _Calamintha nepeta_&nbsp;(1); _Chelidonium majus_&nbsp;(1); _Chenopodium album_&nbsp;(1); _Cichorium pumilum_&nbsp;(1); _Cistus Philosepalus_&nbsp;(1); _Colchicum spp._&nbsp;(1); _Coleostephus myconis_&nbsp;(1); _Conium maculatum_&nbsp;(1); _Convolvulus arvensis_&nbsp;(2); _Cyperus esculentus_&nbsp;(1); _Cytisus scoparius_&nbsp;(1); _Digitalis purpurea_&nbsp;(2); _Equisetum arvense_&nbsp;(1); _Foeniculum vulgura_&nbsp;(1); _Fragaria Vesca_&nbsp;(1); _Fragaria vesca_&nbsp;(1); _Fumaria agraria_&nbsp;(1); _Geranium lucidum_&nbsp;(1); _Hedera hibernica_&nbsp;(1); _Hypochoeris radicata_&nbsp;(1); _Juncus acutus_&nbsp;(1); _Lavandula pedunculata_&nbsp;(1); _Lecanthemum vulgare_&nbsp;(1); _Lonicera caprifolium_&nbsp;(1); _Lupinus angustifolius_&nbsp;(1); _Malva silvestris_&nbsp;(1); _Melissa officinalis_&nbsp;(1); _Mentha pulegium_&nbsp;(1); _Mentha suaveolens_&nbsp;(1); _Narcissus spp._&nbsp;(1); _Nerium oleander_&nbsp;(1); _Origanum vulgare_&nbsp;(1); _Petroselinum crispum_&nbsp;(1); _Pimpinella anisium_&nbsp;(1); _Plantago lanceolata_&nbsp;(1); _Polygonum persicaria_&nbsp;(1); _Polypodium vulgare_&nbsp;(1); _Primula vulgaris_&nbsp;(1); _Prímula acualis_&nbsp;(1); _Pteridium aquilinum_&nbsp;(1); _Pterospartum tridentatum_&nbsp;(1); _Rosa canina_&nbsp;(2); _Rosmarinus officinalis_&nbsp;(2); _Rumex crispus_&nbsp;(1); _Ruscus aculeatus_&nbsp;(1); _Salanum nigrum_&nbsp;(1); _Serapias lingua_&nbsp;(1); _Stellaria holostea_&nbsp;(1); _Stellaria media_&nbsp;(1); _Tanacetum parthenium_&nbsp;(1); _Taraxacum officinale_&nbsp;(2); _Teucrium scorodonia_&nbsp;(1); _Trifolium patrense_&nbsp;(1); _Umbilicus rupestris_&nbsp;(2); _Urtica dioica_&nbsp;(1); _Vicia angustifolia_&nbsp;(1); _Viola riviniana_&nbsp;(1); 
 </div>
 
-<img src='img/pixelgreen.gif' width='100%' height='5px'>
-
-<img src='img/pixelcyan.gif' width='100%' height='5px'>
-
 <div class='divenq'>
 
-### 73 <span style='background:cyan;'>ENQUISAS</span> realizadas
+### 73 <span class='ENQ'>ENQUISAS</span> realizadas
  :notebook: :pencil2: :microphone: :older_man: :older_woman: :movie_camera: :question: :pencil: 
 
 
@@ -39,27 +33,18 @@ _Adenocarpus complicatus_&nbsp;(1); _Amarantus spp._&nbsp;(1); _Aquilea milefoli
 Lu. Monforte de Lemos&nbsp;(39); Lu. Pobra de Brollón&nbsp;(16); Lu. Bóveda&nbsp;(10); Lu. Paradela&nbsp;(5); Lu. Saviñao, O&nbsp;(3); 
 </div>
 
-<img src='img/pixelcyan.gif' width='100%' height='5px'>
-
-<img src='img/pixelmagenta.gif' width='100%' height='5px'>
-
 <div class='divarq'>
 
-### 0 <span style='background:magenta;'>ARQUIVOS</span> complementan o traballo 
+### 0 <span class='ARQ'>ARQUIVOS</span> complementan o traballo 
  :file_cabinet: :open_file_folder: :floppy_disk: 
 
 
 </div>
-
-
-<img src='img/pixelmagenta.gif' width='100%' height='5px'>
-</div><div class='divpart'><div class='divpartit'>
+</div><br /><div class='divpart'><div class='divpartit'>
 
 ## <span class='participante'>[IES Illa de Ons](http://fitofaladoiro.eu?fich=12ejm7IFw5ItM57N0rmbfdWP0mjxlOrkaQ128UjOf8bo) (Po. Bueu)</span>
 
 </div>
-
-<img src='img/pixelgreen.gif' width='100%' height='5px'>
 
 <div class='divpla'>
 
@@ -69,13 +54,9 @@ Lu. Monforte de Lemos&nbsp;(39); Lu. Pobra de Brollón&nbsp;(16); Lu. Bóveda&nb
 _Aloysia citrodora_&nbsp;(1); _Chelidonium majus_&nbsp;(2); _Foeniculum vulgare_&nbsp;(2); _Fucus sp._&nbsp;(1); _Helichrysum foetidum_&nbsp;(1); _Iris pseudacorus_&nbsp;(1); _Laminaria sp._&nbsp;(1); _Laurus nobilis_&nbsp;(3); _Lavandula_&nbsp;(1); _Lippia citriodora_&nbsp;(1); _Malva sp._&nbsp;(1); _Malva sylvestris_&nbsp;(1); _Mentha sp._&nbsp;(1); _Mentha suaveolens_&nbsp;(3); _Ocimum basilicum_&nbsp;(1); _Pisum sativum_&nbsp;(2); _Rosa sp._&nbsp;(1); _Ruta chalepensis_&nbsp;(2); _Saccorhiza polyschides_&nbsp;(1); _Salvia rosmarinus_&nbsp;(1); _Sambucus nigra_&nbsp;(2); _Ulex europaeus_&nbsp;(1); _Urtica dioica_&nbsp;(1); _Urtica sp._&nbsp;(2); _Zea mays_&nbsp;(2); 
 </div>
 
-<img src='img/pixelgreen.gif' width='100%' height='5px'>
-
-<img src='img/pixelcyan.gif' width='100%' height='5px'>
-
 <div class='divenq'>
 
-### 65 <span style='background:cyan;'>ENQUISAS</span> realizadas
+### 65 <span class='ENQ'>ENQUISAS</span> realizadas
  :notebook: :pencil2: :microphone: :older_man: :older_woman: :movie_camera: :question: :pencil: 
 
 
@@ -86,13 +67,9 @@ _Aloysia citrodora_&nbsp;(1); _Chelidonium majus_&nbsp;(2); _Foeniculum vulgare_
 Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&nbsp;(2); C. Cedeira&nbsp;(1); Lu. Lourenzá&nbsp;(1); 
 </div>
 
-<img src='img/pixelcyan.gif' width='100%' height='5px'>
-
-<img src='img/pixelmagenta.gif' width='100%' height='5px'>
-
 <div class='divarq'>
 
-### 75 <span style='background:magenta;'>ARQUIVOS</span> complementan o traballo 
+### 75 <span class='ARQ'>ARQUIVOS</span> complementan o traballo 
  :file_cabinet: :open_file_folder: :floppy_disk: 
 
 
@@ -100,11 +77,6 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
 - imaxe: 19 :camera: 
 - son: 17 :sound: 
 </div>
-
-
-<img src='img/pixelmagenta.gif' width='100%' height='5px'>
-
-<img src='img/pixelyellow.gif' width='100%' height='5px'>
 
 <div class='divinf'>
 
@@ -115,16 +87,11 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
 - Fitofaladoiro Ons - páxina web actual: https://sites.google.com/view/fitofaladoiro-ons-bueu
 - Fitofaladoiro Ons - páxina web antiga: Páxina que recolle unha selección dos traballos relacionados co Proxecto Fitofaladoiro 2015/2016 no noso centro: http://fitofaladoirons.wix.com/ies-illa-ons-bueu
 </div>
-
-
-<img src='img/pixelyellow.gif' width='100%' height='5px'>
-</div><div class='divpart'><div class='divpartit'>
+</div><br /><div class='divpart'><div class='divpartit'>
 
 ## <span class='participante'>[CPR Plurilingüe Compañía de María](http://fitofaladoiro.eu?fich=1P2Wlz96NfJbmYDDP0kVr2_jdADi66n0YelHwAY4WglA) (Po. Cangas)</span>
 
 </div>
-
-<img src='img/pixelgreen.gif' width='100%' height='5px'>
 
 <div class='divpla'>
 
@@ -134,13 +101,9 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
 _Agalla de Devonshire_&nbsp;(1); _Aloysia Citrodora_&nbsp;(1); _Bellis Perennis_&nbsp;(1); _Camelia Sinensis_&nbsp;(1); _Cymbalaria muralis_&nbsp;(1); _Hedera Helix_&nbsp;(1); _Salvia Rosmarinus_&nbsp;(1); _Umbilicus rupestris_&nbsp;(1); 
 </div>
 
-<img src='img/pixelgreen.gif' width='100%' height='5px'>
-
-<img src='img/pixelcyan.gif' width='100%' height='5px'>
-
 <div class='divenq'>
 
-### 8 <span style='background:cyan;'>ENQUISAS</span> realizadas
+### 8 <span class='ENQ'>ENQUISAS</span> realizadas
  :notebook: :pencil2: :microphone: :older_man: :older_woman: :movie_camera: :question: :pencil: 
 
 
@@ -151,24 +114,15 @@ _Agalla de Devonshire_&nbsp;(1); _Aloysia Citrodora_&nbsp;(1); _Bellis Perennis_
 Po. Cangas&nbsp;(8); 
 </div>
 
-<img src='img/pixelcyan.gif' width='100%' height='5px'>
-
-<img src='img/pixelmagenta.gif' width='100%' height='5px'>
-
 <div class='divarq'>
 
-### 25 <span style='background:magenta;'>ARQUIVOS</span> complementan o traballo 
+### 25 <span class='ARQ'>ARQUIVOS</span> complementan o traballo 
  :file_cabinet: :open_file_folder: :floppy_disk: 
 
 
 - imaxe: 16 :camera: 
 - outros: 9 :notebook: :question: 
 </div>
-
-
-<img src='img/pixelmagenta.gif' width='100%' height='5px'>
-
-<img src='img/pixelyellow.gif' width='100%' height='5px'>
 
 <div class='divinf'>
 
@@ -178,16 +132,11 @@ Po. Cangas&nbsp;(8);
 
 - "A lingua da Natureza": O noso blog, que esperamos seguir aumentando podedes consultalo na seguinte ligazón:  https://fitofaladoirociamariacangas.blogspot.com/
 </div>
-
-
-<img src='img/pixelyellow.gif' width='100%' height='5px'>
-</div><div class='divpart'><div class='divpartit'>
+</div><br /><div class='divpart'><div class='divpartit'>
 
 ## <span class='participante'>[IES de Valga](http://fitofaladoiro.eu?fich=108vtcDLGSADF3xEtNlB4_8a0cquOVKFxtg6aUz4LaGk) (Po. Valga)</span>
 
 </div>
-
-<img src='img/pixelgreen.gif' width='100%' height='5px'>
 
 <div class='divpla'>
 
@@ -197,13 +146,9 @@ Po. Cangas&nbsp;(8);
 _Aloe Vera Burm_&nbsp;(1); _Aloysia citrodora_&nbsp;(2); _Celidoium Majus_&nbsp;(1); _Celidonium majus_&nbsp;(1); _Digitalis purpurea_&nbsp;(1); _Equisetum arvense_&nbsp;(1); _Laurus Nobilis_&nbsp;(1); _Mentha_&nbsp;(1); _Petroselinum crispum_&nbsp;(1); _Rosmarinus officinalis_&nbsp;(2); _Ruta Graveolens_&nbsp;(1); _Sambucus nigra_&nbsp;(2); _Thymus vulgaris_&nbsp;(1); 
 </div>
 
-<img src='img/pixelgreen.gif' width='100%' height='5px'>
-
-<img src='img/pixelcyan.gif' width='100%' height='5px'>
-
 <div class='divenq'>
 
-### 88 <span style='background:cyan;'>ENQUISAS</span> realizadas
+### 88 <span class='ENQ'>ENQUISAS</span> realizadas
  :notebook: :pencil2: :microphone: :older_man: :older_woman: :movie_camera: :question: :pencil: 
 
 
@@ -214,18 +159,11 @@ _Aloe Vera Burm_&nbsp;(1); _Aloysia citrodora_&nbsp;(2); _Celidoium Majus_&nbsp;
 Po. Valga&nbsp;(83); Po. Pontecesures&nbsp;(4); C. Rois&nbsp;(1); 
 </div>
 
-<img src='img/pixelcyan.gif' width='100%' height='5px'>
-
-<img src='img/pixelmagenta.gif' width='100%' height='5px'>
-
 <div class='divarq'>
 
-### 0 <span style='background:magenta;'>ARQUIVOS</span> complementan o traballo 
+### 0 <span class='ARQ'>ARQUIVOS</span> complementan o traballo 
  :file_cabinet: :open_file_folder: :floppy_disk: 
 
 
 </div>
-
-
-<img src='img/pixelmagenta.gif' width='100%' height='5px'>
 </div>
