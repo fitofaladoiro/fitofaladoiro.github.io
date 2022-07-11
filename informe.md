@@ -60,12 +60,16 @@ Lu. Monforte de Lemos&nbsp;(39); Lu. Pobra de Brollón&nbsp;(16); Lu. Bóveda&nb
 ### 0 <span style='background:magenta;'>ARQUIVOS</span> complementan o traballo 
  :file_cabinet: :open_file_folder: :floppy_disk: 
 
- (shape: 1)
+
 </div>
 
 
 <img src='img/pixelmagenta.gif' width='100%' height='5px'>
 
+
+______
+
+<iframe src=https://leafletjs.com/examples/quick-start/example.html width=100%></iframe>
 <img src='img/pixelgrey_25.gif' width='100%' height='25px'>
 <div class='divpart'>
 
@@ -109,7 +113,7 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
 ### 75 <span style='background:magenta;'>ARQUIVOS</span> complementan o traballo 
  :file_cabinet: :open_file_folder: :floppy_disk: 
 
- (shape: 85)
+
 - video: 49 :film_projector: 
 - imaxe: 19 :camera: 
 - son: 17 :sound: 
@@ -123,7 +127,7 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
 <div class='divinf'>
 
 ### 2 <span class='INF'>RECURSOS WEB</span> relacionados 
- :web: 
+ :link: 
 
 
 - Fitofaladoiro Ons - páxina web actual: https://sites.google.com/view/fitofaladoiro-ons-bueu
@@ -133,6 +137,10 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
 
 <img src='img/pixelyellow.gif' width='100%' height='5px'>
 
+
+______
+
+<iframe src=https://leafletjs.com/examples/quick-start/example.html width=100%></iframe>
 <img src='img/pixelgrey_25.gif' width='100%' height='25px'>
 <div class='divpart'>
 
@@ -176,7 +184,7 @@ Po. Cangas&nbsp;(8);
 ### 25 <span style='background:magenta;'>ARQUIVOS</span> complementan o traballo 
  :file_cabinet: :open_file_folder: :floppy_disk: 
 
- (shape: 25)
+
 - imaxe: 16 :camera: 
 - outros: 9 :notebook: :question: 
 </div>
@@ -189,7 +197,7 @@ Po. Cangas&nbsp;(8);
 <div class='divinf'>
 
 ### 1 <span class='INF'>RECURSOS WEB</span> relacionados 
- :web: 
+ :link: 
 
 
 - "A lingua da Natureza": O noso blog, que esperamos seguir aumentando podedes consultalo na seguinte ligazón:  https://fitofaladoirociamariacangas.blogspot.com/
@@ -198,6 +206,10 @@ Po. Cangas&nbsp;(8);
 
 <img src='img/pixelyellow.gif' width='100%' height='5px'>
 
+
+______
+
+<iframe src=https://leafletjs.com/examples/quick-start/example.html width=100%></iframe>
 <img src='img/pixelgrey_25.gif' width='100%' height='25px'>
 <div class='divpart'>
 
@@ -241,8 +253,13 @@ Po. Valga&nbsp;(83); Po. Pontecesures&nbsp;(4); C. Rois&nbsp;(1);
 ### 0 <span style='background:magenta;'>ARQUIVOS</span> complementan o traballo 
  :file_cabinet: :open_file_folder: :floppy_disk: 
 
- (shape: 88)
+
 </div>
 
 
 <img src='img/pixelmagenta.gif' width='100%' height='5px'>
+
+
+______
+
+<iframe src=https://leafletjs.com/examples/quick-start/example.html width=100%></iframe>
