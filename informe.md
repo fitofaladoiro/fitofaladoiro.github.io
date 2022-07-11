@@ -137,12 +137,8 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
 
 </pre>
 
-- 0: APARTADO                Fitofaladoiro Ons - páxina web actual
-TEXTO       https://sites.google.com/view/fitofaladoiro-on...
-Name: 0, dtype: object
-- 1: APARTADO                Fitofaladoiro Ons - páxina web antiga
-TEXTO       Páxina que recolle unha selección dos traballo...
-Name: 1, dtype: object
+- Fitofaladoiro Ons - páxina web actual: https://sites.google.com/view/fitofaladoiro-ons-bueu
+- Fitofaladoiro Ons - páxina web antiga: Páxina que recolle unha selección dos traballos relacionados co Proxecto Fitofaladoiro 2015/2016 no noso centro: http://fitofaladoirons.wix.com/ies-illa-ons-bueu
 </div>
 
 
@@ -212,9 +208,7 @@ Po. Cangas&nbsp;(8);
 
 </pre>
 
-- 2: APARTADO                               "A lingua da Natureza"
-TEXTO       O noso blog, que esperamos seguir aumentando p...
-Name: 2, dtype: object
+- "A lingua da Natureza": O noso blog, que esperamos seguir aumentando podedes consultalo na seguinte ligazón:  https://fitofaladoirociamariacangas.blogspot.com/
 </div>
 
 
