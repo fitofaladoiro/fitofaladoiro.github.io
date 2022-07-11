@@ -6,6 +6,7 @@
 
 | Este é un sumario dos datos recollidos polos participantes no _Fitofaladoiro_ durante o curso 2021-2022.   <br />Non se contabilizan os centros que non cubriron as súas táboas de recollida de datos nin compartiron os seus arquivos segundo o protocolo establecido. | <img src='img/fitofaladoiro_animado_transparente.gif'> |
 | :--- | --- |
+<br /><div class='divpart'>
 <div class='divpartit'>
 
 ## <span class='participante'>[IES Francisco Daviña Rey](http://fitofaladoiro.eu?fich=186tgTeKcOELFC2Xayl6EDYgkjC2Ir9Y9DqDz6926jzg) (Lu. Monforte de Lemos)</span>
@@ -40,6 +41,11 @@ Lu. Monforte de Lemos&nbsp;(39); Lu. Pobra de Brollón&nbsp;(16); Lu. Bóveda&nb
 
 
 </div>
+
+
+</div>
+
+<br /><div class='divpart'>
 <div class='divpartit'>
 
 ## <span class='participante'>[IES Illa de Ons](http://fitofaladoiro.eu?fich=12ejm7IFw5ItM57N0rmbfdWP0mjxlOrkaQ128UjOf8bo) (Po. Bueu)</span>
@@ -87,6 +93,11 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
 - Fitofaladoiro Ons - páxina web actual: https://sites.google.com/view/fitofaladoiro-ons-bueu
 - Fitofaladoiro Ons - páxina web antiga: Páxina que recolle unha selección dos traballos relacionados co Proxecto Fitofaladoiro 2015/2016 no noso centro: http://fitofaladoirons.wix.com/ies-illa-ons-bueu
 </div>
+
+
+</div>
+
+<br /><div class='divpart'>
 <div class='divpartit'>
 
 ## <span class='participante'>[CPR Plurilingüe Compañía de María](http://fitofaladoiro.eu?fich=1P2Wlz96NfJbmYDDP0kVr2_jdADi66n0YelHwAY4WglA) (Po. Cangas)</span>
@@ -132,6 +143,11 @@ Po. Cangas&nbsp;(8);
 
 - "A lingua da Natureza": O noso blog, que esperamos seguir aumentando podedes consultalo na seguinte ligazón:  https://fitofaladoirociamariacangas.blogspot.com/
 </div>
+
+
+</div>
+
+<br /><div class='divpart'>
 <div class='divpartit'>
 
 ## <span class='participante'>[IES de Valga](http://fitofaladoiro.eu?fich=108vtcDLGSADF3xEtNlB4_8a0cquOVKFxtg6aUz4LaGk) (Po. Valga)</span>
@@ -166,3 +182,7 @@ Po. Valga&nbsp;(83); Po. Pontecesures&nbsp;(4); C. Rois&nbsp;(1);
 
 
 </div>
+
+
+</div>
+
