@@ -1,6 +1,4 @@
-<link rel="stylesheet" href="css/estilo.css">
-<link href="https://opensource.keycdn.com/fontawesome/4.7.0/font-awesome.min.css" rel="stylesheet">
-
+<link rel="stylesheet" href="css/estilo.css"><script src="https://kit.fontawesome.com/b4c01d82d0.js" crossorigin="anonymous"></script>
 <i class='fa fa-facebook' aria-hidden='true'></i>
 
 
