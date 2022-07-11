@@ -69,7 +69,7 @@ Lu. Monforte de Lemos&nbsp;(39); Lu. Pobra de Brollón&nbsp;(16); Lu. Bóveda&nb
 
 ### Some icons:
 
- <i class="fa fa-camera-retro fa-5x"></i>
+ <i class="fa fa-envelope-square fa-fw">
 <img src='img/pixelgrey_25.gif' width='100%' height='25px'>
 <div class='divpart'>
 
@@ -140,7 +140,7 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
 
 ### Some icons:
 
- <i class="fa fa-camera-retro fa-5x"></i>
+ <i class="fa fa-envelope-square fa-fw">
 <img src='img/pixelgrey_25.gif' width='100%' height='25px'>
 <div class='divpart'>
 
@@ -209,7 +209,7 @@ Po. Cangas&nbsp;(8);
 
 ### Some icons:
 
- <i class="fa fa-camera-retro fa-5x"></i>
+ <i class="fa fa-envelope-square fa-fw">
 <img src='img/pixelgrey_25.gif' width='100%' height='25px'>
 <div class='divpart'>
 
@@ -262,4 +262,4 @@ Po. Valga&nbsp;(83); Po. Pontecesures&nbsp;(4); C. Rois&nbsp;(1);
 
 ### Some icons:
 
- <i class="fa fa-camera-retro fa-5x"></i>
+ <i class="fa fa-envelope-square fa-fw">
