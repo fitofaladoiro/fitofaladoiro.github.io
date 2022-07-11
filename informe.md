@@ -60,7 +60,11 @@ Lu. Monforte de Lemos&nbsp;(39); Lu. Pobra de Brollón&nbsp;(16); Lu. Bóveda&nb
 ### 0 <span style='background:magenta;'>ARQUIVOS</span> complementan o traballo 
  :file_cabinet: :open_file_folder: :floppy_disk: 
 
- (shape: 1)
+ (shape: 1)<pre>,codigo planta,enquisa,VISIBLE,Centro,curso,tipo arquivo,notas,data,nome arquivo,arquivo internet,imaxe reducida,previsualiza,notas rev. Fitofaladoiro,id_Ff,gsheet
+
+0,,,,,,,,,,,,,,b78be83b-83d7-4032-87ea-21624a285a97,186tgTeKcOELFC2Xayl6EDYgkjC2Ir9Y9DqDz6926jzg
+
+</pre>
 </div>
 
 
