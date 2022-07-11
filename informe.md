@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="css/estilo.css">
 
-<img src="" width="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" height="50">
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">
 
 # INFORME CURSO 2021-2022
 
