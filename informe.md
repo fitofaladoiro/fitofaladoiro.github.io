@@ -31,7 +31,7 @@
 ### 73 <span class='PLA'>PLANTAS</span> mostreadas
  :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
 
-_Adenocarpus complicatus_&nbsp;(1); _Amarantus spp._&nbsp;(1); _Aquilea milefolium_&nbsp;(1); _Arctium lapa_&nbsp;(1); _Arum maculatum_&nbsp;(1); _Asphodelus spp._&nbsp;(1); _Athyrium filix-femina_&nbsp;(1); _Avena sativa_&nbsp;(1); _Bellis perennis_&nbsp;(1); _Brassica napus_&nbsp;(1); _Calamintha nepeta_&nbsp;(1); _Chelidonium majus_&nbsp;(1); _Chenopodium album_&nbsp;(1); _Cichorium pumilum_&nbsp;(1); _Cistus Philosepalus_&nbsp;(1); _Colchicum spp._&nbsp;(1); _Coleostephus myconis_&nbsp;(1); _Conium maculatum_&nbsp;(1); _Convolvulus arvensis_&nbsp;(2); _Cyperus esculentus_&nbsp;(1); _Cytisus scoparius_&nbsp;(1); _Digitalis purpurea_&nbsp;(2); _Equisetum arvense_&nbsp;(1); _Foeniculum vulgura_&nbsp;(1); _Fragaria Vesca_&nbsp;(1); _Fragaria vesca_&nbsp;(1); _Fumaria agraria_&nbsp;(1); _Geranium lucidum_&nbsp;(1); _Hedera helix_&nbsp;(1); _Hypochoeris radicata_&nbsp;(1); _Juncus acutus_&nbsp;(1); _Lavandula pedunculata_&nbsp;(1); _Lecanthemum vulgare_&nbsp;(1); _Lonicera caprifolium_&nbsp;(1); _Lupinus angustifolius_&nbsp;(1); _Malva silvestris_&nbsp;(1); _Melissa officinalis_&nbsp;(1); _Mentha pulegium_&nbsp;(1); _Mentha suaveolens_&nbsp;(1); _Narcissus spp._&nbsp;(1); _Nerium oleander_&nbsp;(1); _Origanum vulgare_&nbsp;(1); _Petroselinum crispum_&nbsp;(1); _Pimpinella anisium_&nbsp;(1); _Plantago lanceolata_&nbsp;(1); _Polygonum persicaria_&nbsp;(1); _Polypodium vulgare_&nbsp;(1); _Primula vulgaris_&nbsp;(1); _Prímula acualis_&nbsp;(1); _Pteridium aquilinum_&nbsp;(1); _Pterospartum tridentatum_&nbsp;(1); _Rosa canina_&nbsp;(2); _Rosmarinus officinalis_&nbsp;(2); _Rumex crispus_&nbsp;(1); _Ruscus aculeatus_&nbsp;(1); _Salanum nigrum_&nbsp;(1); _Serapias lingua_&nbsp;(1); _Stellaria holostea_&nbsp;(1); _Stellaria media_&nbsp;(1); _Tanacetum parthenium_&nbsp;(1); _Taraxacum officinale_&nbsp;(2); _Teucrium scorodonia_&nbsp;(1); _Trifolium patrense_&nbsp;(1); _Umbilicus rupestris_&nbsp;(2); _Urtica dioica_&nbsp;(1); _Vicia angustifolia_&nbsp;(1); _Viola riviniana_&nbsp;(1); 
+_Adenocarpus complicatus_&nbsp;(1); _Amarantus spp._&nbsp;(1); _Aquilea milefolium_&nbsp;(1); _Arctium lapa_&nbsp;(1); _Arum maculatum_&nbsp;(1); _Asphodelus spp._&nbsp;(1); _Athyrium filix-femina_&nbsp;(1); _Avena sativa_&nbsp;(1); _Bellis perennis_&nbsp;(1); _Brassica napus_&nbsp;(1); _Calamintha nepeta_&nbsp;(1); _Chelidonium majus_&nbsp;(1); _Chenopodium album_&nbsp;(1); _Cichorium pumilum_&nbsp;(1); _Cistus Philosepalus_&nbsp;(1); _Colchicum spp._&nbsp;(1); _Coleostephus myconis_&nbsp;(1); _Conium maculatum_&nbsp;(1); _Convolvulus arvensis_&nbsp;(2); _Cyperus esculentus_&nbsp;(1); _Cytisus scoparius_&nbsp;(1); _Digitalis purpurea_&nbsp;(2); _Equisetum arvense_&nbsp;(1); _Foeniculum vulgura_&nbsp;(1); _Fragaria Vesca_&nbsp;(1); _Fragaria vesca_&nbsp;(1); _Fumaria agraria_&nbsp;(1); _Geranium lucidum_&nbsp;(1); _Hedera hibernica_&nbsp;(1); _Hypochoeris radicata_&nbsp;(1); _Juncus acutus_&nbsp;(1); _Lavandula pedunculata_&nbsp;(1); _Lecanthemum vulgare_&nbsp;(1); _Lonicera caprifolium_&nbsp;(1); _Lupinus angustifolius_&nbsp;(1); _Malva silvestris_&nbsp;(1); _Melissa officinalis_&nbsp;(1); _Mentha pulegium_&nbsp;(1); _Mentha suaveolens_&nbsp;(1); _Narcissus spp._&nbsp;(1); _Nerium oleander_&nbsp;(1); _Origanum vulgare_&nbsp;(1); _Petroselinum crispum_&nbsp;(1); _Pimpinella anisium_&nbsp;(1); _Plantago lanceolata_&nbsp;(1); _Polygonum persicaria_&nbsp;(1); _Polypodium vulgare_&nbsp;(1); _Primula vulgaris_&nbsp;(1); _Prímula acualis_&nbsp;(1); _Pteridium aquilinum_&nbsp;(1); _Pterospartum tridentatum_&nbsp;(1); _Rosa canina_&nbsp;(2); _Rosmarinus officinalis_&nbsp;(2); _Rumex crispus_&nbsp;(1); _Ruscus aculeatus_&nbsp;(1); _Salanum nigrum_&nbsp;(1); _Serapias lingua_&nbsp;(1); _Stellaria holostea_&nbsp;(1); _Stellaria media_&nbsp;(1); _Tanacetum parthenium_&nbsp;(1); _Taraxacum officinale_&nbsp;(2); _Teucrium scorodonia_&nbsp;(1); _Trifolium patrense_&nbsp;(1); _Umbilicus rupestris_&nbsp;(2); _Urtica dioica_&nbsp;(1); _Vicia angustifolia_&nbsp;(1); _Viola riviniana_&nbsp;(1); 
 </div>
 
 <img src='img/pixelgreen.gif' width='100%' height='5px'>
@@ -45,7 +45,7 @@ _Adenocarpus complicatus_&nbsp;(1); _Amarantus spp._&nbsp;(1); _Aquilea milefoli
 
 
 
-`Abrotia`&nbsp;(1); `Adelfa`&nbsp;(1); `Agulleira`&nbsp;(1); `Amores`&nbsp;(1); `Amorodeira`&nbsp;(1); `Anís`&nbsp;(1); `Aquilea`&nbsp;(1); `Azaia`&nbsp;(1); `Béldrego`&nbsp;(1); `Canavela`&nbsp;(1); `Cardea`&nbsp;(1); `Carpanza`&nbsp;(1); `Carqueixa`&nbsp;(1); `Chicoria`&nbsp;(1); `Ciruda`&nbsp;(1); `Codeso`&nbsp;(1); `Cola de cabalo`&nbsp;(1); `Colza`&nbsp;(1); `Correola`&nbsp;(1); `Corrixola`&nbsp;(1); `Croque`&nbsp;(1); `Cáncaro`&nbsp;(1); `Cópelo`&nbsp;(1); `Estalote`&nbsp;(1); `Estoupo`&nbsp;(2); `Fabaca`&nbsp;(1); `Fariñento`&nbsp;(1); `Fenta`&nbsp;(1); `Fento`&nbsp;(2); `Fiollo`&nbsp;(1); `Galo Cristo`&nbsp;(1); `Hedra`&nbsp;(1); `Herba de Nuetra Señora`&nbsp;(1); `Herba do pé rubio`&nbsp;(1); `Herba moura`&nbsp;(1); `Lengua de ovella`&nbsp;(1); `Madreselva`&nbsp;(1); `Malla`&nbsp;(1); `Malva`&nbsp;(1); `Margarita`&nbsp;(1); `Marrubio`&nbsp;(1); `Melisa`&nbsp;(1); `Menta brava`&nbsp;(1); `Mexacán`&nbsp;(1); `Morote`&nbsp;(1); `Muruxa`&nbsp;(1); `Narciso`&nbsp;(1); `Nébeda`&nbsp;(1); `Ortiga`&nbsp;(1); `Ourego`&nbsp;(1); `Paciporca`&nbsp;(1); `Pampilo`&nbsp;(1); `Perexil`&nbsp;(1); `Poxo`&nbsp;(1); `Primavera`&nbsp;(1); `Reló`&nbsp;(1); `Romeo`&nbsp;(1); `Romeu`&nbsp;(1); `Rosa Brava`&nbsp;(1); `Rusco`&nbsp;(1); `Sangre de Cristo`&nbsp;(1); `Silva Mcha`&nbsp;(1); `Trevo`&nbsp;(1); `Tullemerendas`&nbsp;(1); `Veza`&nbsp;(1); `Violeta`&nbsp;(1); `Xario`&nbsp;(1); `Xesta`&nbsp;(1); `Xinxebra`&nbsp;(1); `Xunca`&nbsp;(1); `Xunco`&nbsp;(1); 
+`Abrotia`&nbsp;(1); `Adelfa`&nbsp;(1); `Agulleira`&nbsp;(1); `Amores`&nbsp;(1); `Amorodeira`&nbsp;(1); `Anís`&nbsp;(1); `Aquilea`&nbsp;(1); `Azaia`&nbsp;(1); `Béldrego`&nbsp;(1); `Canavela`&nbsp;(1); `Cardea`&nbsp;(1); `Carpanza`&nbsp;(1); `Carqueixa`&nbsp;(1); `Chicoria`&nbsp;(1); `Ciruda`&nbsp;(1); `Codeso`&nbsp;(1); `Cola de cabalo`&nbsp;(1); `Colza`&nbsp;(1); `Correola`&nbsp;(1); `Corrixola`&nbsp;(1); `Croque`&nbsp;(1); `Cáncaro`&nbsp;(1); `Cópelo`&nbsp;(1); `Estalote`&nbsp;(1); `Estoupo`&nbsp;(2); `Fabaca`&nbsp;(1); `Fariñento`&nbsp;(1); `Fenta`&nbsp;(1); `Fento`&nbsp;(2); `Fiollo`&nbsp;(1); `Galo Cristo`&nbsp;(1); `Hedra`&nbsp;(1); `Herba de Nuetra Señora`&nbsp;(1); `Herba do pé rubio`&nbsp;(1); `Herba moura`&nbsp;(1); `Lengua de ovella`&nbsp;(1); `Madreselva`&nbsp;(1); `Malla`&nbsp;(1); `Malva`&nbsp;(1); `Margarita`&nbsp;(1); `Marrubio`&nbsp;(1); `Melisa`&nbsp;(1); `Menta brava`&nbsp;(1); `Mexacán`&nbsp;(1); `Morote`&nbsp;(1); `Muruxa`&nbsp;(1); `Narciso`&nbsp;(1); `Nébeda`&nbsp;(1); `Ortiga`&nbsp;(1); `Ourego`&nbsp;(1); `Paciporca`&nbsp;(1); `Pampilo`&nbsp;(1); `Perexil`&nbsp;(1); `Poxo`&nbsp;(1); `Primavera`&nbsp;(1); `Reló`&nbsp;(1); `Romeo`&nbsp;(1); `Romeu`&nbsp;(1); `Rosa Brava`&nbsp;(1); `Rusco`&nbsp;(1); `Sangre de Cristo`&nbsp;(1); `Silva Macha`&nbsp;(1); `Trevo`&nbsp;(1); `Tullemerendas`&nbsp;(1); `Veza`&nbsp;(1); `Violeta`&nbsp;(1); `Xario`&nbsp;(1); `Xesta`&nbsp;(1); `Xinxebra`&nbsp;(1); `Xunca`&nbsp;(1); `Xunco`&nbsp;(1); 
 #### Datos procedentes de 5 concellos:
 
 Lu. Monforte de Lemos&nbsp;(39); Lu. Pobra de Brollón&nbsp;(16); Lu. Bóveda&nbsp;(10); Lu. Paradela&nbsp;(5); Lu. Saviñao, O&nbsp;(3); 
@@ -122,6 +122,25 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
 
 <img src='img/pixelmagenta.gif' width='100%' height='5px'>
 
+<img src='img/pixelyellow.gif' width='100%' height='5px'>
+
+<div class='divinf'>
+
+### 2 <span style='background:magenta;'>RECURSOS WEB</span> relacionados 
+ :web: 
+
+ (shape: 2)<pre>,APARTADO,TEXTO,gsheet
+
+0,Fitofaladoiro Ons - páxina web actual,https://sites.google.com/view/fitofaladoiro-ons-bueu,12ejm7IFw5ItM57N0rmbfdWP0mjxlOrkaQ128UjOf8bo
+
+1,Fitofaladoiro Ons - páxina web antiga,Páxina que recolle unha selección dos traballos relacionados co Proxecto Fitofaladoiro 2015/2016 no noso centro: http://fitofaladoirons.wix.com/ies-illa-ons-bueu,12ejm7IFw5ItM57N0rmbfdWP0mjxlOrkaQ128UjOf8bo
+
+</pre>
+</div>
+
+
+<img src='img/pixelyellow.gif' width='100%' height='5px'>
+
 <img src='img/pixelgrey_25.gif' width='100%' height='25px'>
 <div class='divpart'>
 
@@ -172,6 +191,23 @@ Po. Cangas&nbsp;(8);
 
 
 <img src='img/pixelmagenta.gif' width='100%' height='5px'>
+
+<img src='img/pixelyellow.gif' width='100%' height='5px'>
+
+<div class='divinf'>
+
+### 1 <span style='background:magenta;'>RECURSOS WEB</span> relacionados 
+ :web: 
+
+ (shape: 1)<pre>,APARTADO,TEXTO,gsheet
+
+2,"""A lingua da Natureza""","O noso blog, que esperamos seguir aumentando podedes consultalo na seguinte ligazón:  https://fitofaladoirociamariacangas.blogspot.com/",1P2Wlz96NfJbmYDDP0kVr2_jdADi66n0YelHwAY4WglA
+
+</pre>
+</div>
+
+
+<img src='img/pixelyellow.gif' width='100%' height='5px'>
 
 <img src='img/pixelgrey_25.gif' width='100%' height='25px'>
 <div class='divpart'>
