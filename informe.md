@@ -59,10 +59,11 @@ Lu. Monforte de Lemos&nbsp;(39); Lu. Pobra de Brollón&nbsp;(16); Lu. Bóveda&nb
 
 <div class='divarq'>
 
-### 0 <span style='background:magenta;'>ARQUIVOS</span> complementan o traballo 
+### 1 <span style='background:magenta;'>ARQUIVOS</span> complementan o traballo 
  :file_cabinet: :open_file_folder: :floppy_disk: 
 
 
+- : 1 :notebook: :question: 
 </div>
 
 
@@ -226,7 +227,7 @@ Po. Cangas&nbsp;(8);
 ### 88 <span class='PLA'>PLANTAS</span> mostreadas
  :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
 
-_Aloe Vera Burm_&nbsp;(1); _Aloysia citrodora_&nbsp;(2); _Celidoium Majus_&nbsp;(1); _Celidonium majus_&nbsp;(1); _Digitalis purpurea_&nbsp;(1); _Equisetum arvense_&nbsp;(1); _Laurus Nobilis_&nbsp;(1); _Mentha_&nbsp;(1); _Petroselinum crispum_&nbsp;(1); _Rosmarinus officinalis_&nbsp;(2); _Ruta Graveolens_&nbsp;(1); _Sambucus nigra_&nbsp;(2); _Thymus vulgaris_&nbsp;(1); 
+__&nbsp;(72); _Aloe Vera Burm_&nbsp;(1); _Aloysia citrodora_&nbsp;(2); _Celidoium Majus_&nbsp;(1); _Celidonium majus_&nbsp;(1); _Digitalis purpurea_&nbsp;(1); _Equisetum arvense_&nbsp;(1); _Laurus Nobilis_&nbsp;(1); _Mentha_&nbsp;(1); _Petroselinum crispum_&nbsp;(1); _Rosmarinus officinalis_&nbsp;(2); _Ruta Graveolens_&nbsp;(1); _Sambucus nigra_&nbsp;(2); _Thymus vulgaris_&nbsp;(1); 
 </div>
 
 <img src='img/pixelgreen.gif' width='100%' height='5px'>
@@ -252,10 +253,11 @@ Po. Valga&nbsp;(83); Po. Pontecesures&nbsp;(4); C. Rois&nbsp;(1);
 
 <div class='divarq'>
 
-### 0 <span style='background:magenta;'>ARQUIVOS</span> complementan o traballo 
+### 1 <span style='background:magenta;'>ARQUIVOS</span> complementan o traballo 
  :file_cabinet: :open_file_folder: :floppy_disk: 
 
 
+- : 88 :notebook: :question: 
 </div>
 
 
