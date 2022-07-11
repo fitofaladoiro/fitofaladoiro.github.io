@@ -110,9 +110,9 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
  :sound: :camera: :film_strip: :film_projector: :file_cabinet: :open_file_folder: :floppy_disk: :computer: 
 
 
-- video: 49
-- imaxe: 19
-- son: 17
+- video: 49 :film_projector: :film_strip: 
+- imaxe: 19 :camera: 
+- son: 17 :sound: :microphone: 
 </div>
 
 
@@ -162,8 +162,8 @@ Po. Cangas&nbsp;(8);
  :sound: :camera: :film_strip: :film_projector: :file_cabinet: :open_file_folder: :floppy_disk: :computer: 
 
 
-- imaxe: 16
-- outros: 9
+- imaxe: 16 :camera: 
+- outros: 9 :notebook: :question: 
 </div>
 
 
