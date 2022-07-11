@@ -58,7 +58,7 @@ Lu. Monforte de Lemos&nbsp;(39); Lu. Pobra de Brollón&nbsp;(16); Lu. Bóveda&nb
 <div class='divarq'>
 
 ### 0 <span style='background:magenta;'>ARQUIVOS</span> complementan o traballo 
- :sound: :camera: :film_strip: :film_projector: :file_cabinet: :open_file_folder: :floppy_disk: :computer: 
+ :file_cabinet: :open_file_folder: :floppy_disk: :computer: 
 
 
 </div>
@@ -107,10 +107,10 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
 <div class='divarq'>
 
 ### 75 <span style='background:magenta;'>ARQUIVOS</span> complementan o traballo 
- :sound: :camera: :film_strip: :film_projector: :file_cabinet: :open_file_folder: :floppy_disk: :computer: 
+ :file_cabinet: :open_file_folder: :floppy_disk: :computer: 
 
 
-- video: 49 :film_projector: :film_strip: 
+- video: 49 :film_projector: 
 - imaxe: 19 :camera: 
 - son: 17 :sound: :microphone: 
 </div>
@@ -159,7 +159,7 @@ Po. Cangas&nbsp;(8);
 <div class='divarq'>
 
 ### 25 <span style='background:magenta;'>ARQUIVOS</span> complementan o traballo 
- :sound: :camera: :film_strip: :film_projector: :file_cabinet: :open_file_folder: :floppy_disk: :computer: 
+ :file_cabinet: :open_file_folder: :floppy_disk: :computer: 
 
 
 - imaxe: 16 :camera: 
@@ -210,7 +210,7 @@ Po. Valga&nbsp;(83); Po. Pontecesures&nbsp;(4); C. Rois&nbsp;(1);
 <div class='divarq'>
 
 ### 0 <span style='background:magenta;'>ARQUIVOS</span> complementan o traballo 
- :sound: :camera: :film_strip: :film_projector: :file_cabinet: :open_file_folder: :floppy_disk: :computer: 
+ :file_cabinet: :open_file_folder: :floppy_disk: :computer: 
 
 
 </div>
