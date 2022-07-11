@@ -1,4 +1,8 @@
-<link rel="stylesheet" href="css/estilo.css"><link href="https://opensource.keycdn.com/fontawesome/4.7.0/font-awesome.min.css" rel="stylesheet"><i class='fa fa-facebook' aria-hidden='true'></i>
+<link rel="stylesheet" href="css/estilo.css">
+<link href="https://opensource.keycdn.com/fontawesome/4.7.0/font-awesome.min.css" rel="stylesheet">
+
+<i class='fa fa-facebook' aria-hidden='true'></i>
+
 
 # INFORME CURSO 2021-2022
 
