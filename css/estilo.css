@@ -1,5 +1,5 @@
-.divpart {padding:3px; margin: 5px; border:5px solid lightgrey;}
-.divpartit {background:lightgrey;}
+.divpart {padding:3px; margin: 5px; border:5px solid lightgrey; background:lightgrey;}
+.divpartit {background:white;}
 .divseccion {padding:5px; margin-top:3px; margin-bottom:3px; border-width:3px}
 .divpla {border:solid lightgreen; background:white;}
 .divenq {border:solid cyan; background:white;}
