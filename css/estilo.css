@@ -1,7 +1,9 @@
 .divpla {padding:5px; border:2px solid lightgreen;}
 .divenq {padding:5px; border:2px solid cyan;}
 .divarq {padding:5px; border:2px solid magenta;}
+.divarq {padding:5px; border:2px solid yellow;}
 .PLA {background:cyan;}
 .ENQ {background:cyan;}
 .ARQ {background:magenta;}
+.INF {background:magenta;}
 .divpart {background:lightgrey;} 
