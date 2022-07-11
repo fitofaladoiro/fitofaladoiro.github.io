@@ -60,11 +60,7 @@ Lu. Monforte de Lemos&nbsp;(39); Lu. Pobra de Brollón&nbsp;(16); Lu. Bóveda&nb
 ### 0 <span style='background:magenta;'>ARQUIVOS</span> complementan o traballo 
  :file_cabinet: :open_file_folder: :floppy_disk: 
 
- (shape: 1)<pre>,codigo planta,enquisa,VISIBLE,Centro,curso,tipo arquivo,notas,data,nome arquivo,arquivo internet,imaxe reducida,previsualiza,notas rev. Fitofaladoiro,id_Ff,gsheet
-
-0,,,,,,,,,,,,,,b78be83b-83d7-4032-87ea-21624a285a97,186tgTeKcOELFC2Xayl6EDYgkjC2Ir9Y9DqDz6926jzg
-
-</pre>
+ (shape: 1)
 </div>
 
 
@@ -129,13 +125,6 @@ Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&n
 ### 2 <span style='background:magenta;'>RECURSOS WEB</span> relacionados 
  :web: 
 
- (shape: 2)<pre>,APARTADO,TEXTO,gsheet
-
-0,Fitofaladoiro Ons - páxina web actual,https://sites.google.com/view/fitofaladoiro-ons-bueu,12ejm7IFw5ItM57N0rmbfdWP0mjxlOrkaQ128UjOf8bo
-
-1,Fitofaladoiro Ons - páxina web antiga,Páxina que recolle unha selección dos traballos relacionados co Proxecto Fitofaladoiro 2015/2016 no noso centro: http://fitofaladoirons.wix.com/ies-illa-ons-bueu,12ejm7IFw5ItM57N0rmbfdWP0mjxlOrkaQ128UjOf8bo
-
-</pre>
 
 - Fitofaladoiro Ons - páxina web actual: https://sites.google.com/view/fitofaladoiro-ons-bueu
 - Fitofaladoiro Ons - páxina web antiga: Páxina que recolle unha selección dos traballos relacionados co Proxecto Fitofaladoiro 2015/2016 no noso centro: http://fitofaladoirons.wix.com/ies-illa-ons-bueu
@@ -202,11 +191,6 @@ Po. Cangas&nbsp;(8);
 ### 1 <span style='background:magenta;'>RECURSOS WEB</span> relacionados 
  :web: 
 
- (shape: 1)<pre>,APARTADO,TEXTO,gsheet
-
-2,"""A lingua da Natureza""","O noso blog, que esperamos seguir aumentando podedes consultalo na seguinte ligazón:  https://fitofaladoirociamariacangas.blogspot.com/",1P2Wlz96NfJbmYDDP0kVr2_jdADi66n0YelHwAY4WglA
-
-</pre>
 
 - "A lingua da Natureza": O noso blog, que esperamos seguir aumentando podedes consultalo na seguinte ligazón:  https://fitofaladoirociamariacangas.blogspot.com/
 </div>
