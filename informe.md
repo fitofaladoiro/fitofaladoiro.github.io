@@ -1,6 +1,6 @@
-<link rel="stylesheet" href="css/estilo.css"><script src="https://kit.fontawesome.com/b4c01d82d0.js" crossorigin="anonymous"></script>
-<i class='fa fa-facebook' aria-hidden='true'></i>
+<link rel="stylesheet" href="css/estilo.css">
 
+![crown](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg.svg)
 
 # INFORME CURSO 2021-2022
 
