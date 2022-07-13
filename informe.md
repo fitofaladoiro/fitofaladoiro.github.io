@@ -100,22 +100,28 @@ Po. Tui&nbsp;(43); Po. Tomiño&nbsp;(9); Po. Salceda de Caselas&nbsp;(6); Po. Po
 
 <div class='divinf divseccion'>
 
-### 5 <span class='INF'>RECURSOS WEB</span> relacionados 
+### 11 <span class='INF'>RECURSOS WEB</span> relacionados 
  :link: 
 
 
-- Galería de imaxes do Fitofaladoiro no IES San Paio: 
-- Coas variantes de funcho e outras plantas elaboramos un mapa dialectal da zona para a exposición que fixemos no instituto: 
-- Cantigas con nomes de plantas: 
-- Refráns con nomes de plantas: 
-- : 
-- : 
-- : 
-- : 
-- : 
-- : 
-- : 
-- : 
+- Galería de imaxes do Fitofaladoiro no IES San Paio: http://www.edu.xunta.gal/centros/iessanpaio/galeria/thumbnails.php?album=89
+- Coas variantes de funcho e outras plantas elaboramos un mapa dialectal da zona para a exposición que fixemos no instituto: http://www.edu.xunta.gal/centros/iessanpaio/galeria/displayimage.php?album=89&pos=15
+- Cantigas con nomes de plantas: http://www.edu.xunta.gal/centros/iessanpaio/galeria/displayimage.php?pid=2756&fullsize=1
+- Refráns con nomes de plantas: http://www.edu.xunta.gal/centros/iessanpaio/galeria/displayimage.php?album=89&pos=22
+- celidonia: Temos unha planta seca sen raíz e sementes, só follas e flor no HBM San Paio Celidonia. Por ter que facelo antes do verán. 
+http://www.edu.xunta.gal/centros/iessanpaio/galeria/displayimage.php?album=89&pos=1  
+http://www.edu.xunta.gal/centros/iessanpaio/galeria/displayimage.php?album=89&pos=9
+
+- fento: http://www.edu.xunta.gal/centros/iessanpaio/galeria/displayimage.php?album=89&pos=2
+- fincho, funcho, fruncho: Temos un exemplar seco no HBM San Paio fiuncho. Recollemos tres variantes: fiuncho, funcho e fruncho.
+http://www.edu.xunta.gal/centros/iessanpaio/galeria/displayimage.php?album=89&pos=18
+- hedra: Temos un exemplar seco no HBM San Paio hedra, sen as bagas porque aínda non era tempo.
+http://www.edu.xunta.gal/centros/iessanpaio/galeria/displayimage.php?album=89&pos=20
+- lingua de ovella: Temos un exemplar seco no HBM San Paio lingua de ovella.
+http://www.edu.xunta.gal/centros/iessanpaio/galeria/displayimage.php?album=89&pos=12
+- ourego: Temos un exemplar seco sen flores no HBM San Paio ourego. Rexistramos varias variantes que localizamos no mapa dialectal.
+- pampullo: Témolo recollido co nome de pampullo en toda a zona do Baixo Miño.
+http://www.edu.xunta.gal/centros/iessanpaio/galeria/displayimage.php?album=89&pos=17
 </div>
 
 
