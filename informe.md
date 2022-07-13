@@ -110,10 +110,10 @@ Po. Nigrán&nbsp;(26); Po. Baiona&nbsp;(7); Po. Gondomar&nbsp;(5); Po. Vigo&nbsp
 
 <div class='divpla divseccion'>
 
-### 37 <span class='PLA'>PLANTAS</span> mostreadas
+### 36 <span class='PLA'>PLANTAS</span> mostreadas
  :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
 
-__&nbsp;(37); 
+_Aloe vera/aloe barbadensis_&nbsp;(1); _Aloysia citrodora_&nbsp;(8); _Chamaemelum nobile_&nbsp;(2); _Eucaliptus globulus_&nbsp;(2); _Hypericum perforatum_&nbsp;(1); _Lavandula angustifolia_&nbsp;(4); _Olea europaea_&nbsp;(1); _Petroselinum crispum/sativum_&nbsp;(4); _Rosmarinus officinalis/salvia rosmarinus_&nbsp;(10); _Rubus ulmifolius schott_&nbsp;(1); _Ruta chalapensis_&nbsp;(1); _Salvia officinalis_&nbsp;(1); 
 </div>
 
 <div class='divarq divseccion'>
