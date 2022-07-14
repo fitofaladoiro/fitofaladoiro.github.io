@@ -25,9 +25,9 @@ __&nbsp;(43);
 
 <div class='divarq divseccion'>
 
-### <a href='https://drive.google.com/drive/folders/0    10cUlzhSD1hoyQ7ad6xZ4DairpefianeC
+### [1](https://drive.google.com/drive/folders/0    10cUlzhSD1hoyQ7ad6xZ4DairpefianeC
 1    1tE4t6kl2yod0UYPuqx3DsKCbNqYJsUpN
-Name: idcarpeta, dtype: object'>1 <span class='ARQ'>ARQUIVOS</span></a> complementan o traballo 
+Name: idcarpeta, dtype: object) <span class='ARQ'>ARQUIVOS</span> complementan o traballo 
  :file_cabinet: :open_file_folder: :floppy_disk: 
 
 
@@ -69,9 +69,9 @@ Po. Nigrán&nbsp;(26); Po. Baiona&nbsp;(7); Po. Gondomar&nbsp;(5); Po. Vigo&nbsp
 
 <div class='divarq divseccion'>
 
-### <a href='https://drive.google.com/drive/folders/0    10cUlzhSD1hoyQ7ad6xZ4DairpefianeC
+### [1](https://drive.google.com/drive/folders/0    10cUlzhSD1hoyQ7ad6xZ4DairpefianeC
 1    1tE4t6kl2yod0UYPuqx3DsKCbNqYJsUpN
-Name: idcarpeta, dtype: object'>1 <span class='ARQ'>ARQUIVOS</span></a> complementan o traballo 
+Name: idcarpeta, dtype: object) <span class='ARQ'>ARQUIVOS</span> complementan o traballo 
  :file_cabinet: :open_file_folder: :floppy_disk: 
 
 
