@@ -1,6 +1,7 @@
 name: test.pages
 title: null # null para que non apareza o título ao comezo de cada máxina .md
-# markdown: kramdown # cambiado para poder usar táboas https://github.com/pages-themes/cayman/issues/82#issuecomment-613349240
-markdown: GFM
+# markdown: kramdown # cambiado por GFM para poder usar táboas https://github.com/pages-themes/cayman/issues/82#issuecomment-613349240
+# pero en cambio con GFM parece non funcionar a TOC automática (Table Of Contents)
+markdown: kramdown
 plugins:
   - jemoji # metido para que furrulen os emojis 
