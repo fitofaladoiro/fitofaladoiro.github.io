@@ -3,38 +3,13 @@
 # INFORME CURSO 2021-2022
 
 
+		* TOC 
+		{:toc}
+		
+		
 
 | Este é un sumario dos datos recollidos polos participantes no _Fitofaladoiro_ durante o curso 2021-2022.   <br />Non se contabilizan os centros que non cubriron as súas táboas de recollida de datos nin compartiron os seus arquivos segundo o protocolo establecido. | <img src='img/fitofaladoiro_animado_transparente.gif'> |
 | :--- | --- |
-
-<br />
-<div class='divpart'>
-<div class='divpartit'>
-
-## <span class='participante'>[IES Escolas Proval](http://fitofaladoiro.eu?fich=1R6qcrH8nH23rtTrGfsdlsXP4ldiHlXTa4hor9TlYdhE) (Po. Nigrán)</span>
-
-</div>
-
-<div class='divpla divseccion'>
-
-### 43 <span class='PLA'>PLANTAS</span> mostreadas
- :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
-
-__&nbsp;(43); 
-</div>
-
-<div class='divarq divseccion'>
-
-### [1](https://drive.google.com/drive/folders/1tE4t6kl2yod0UYPuqx3DsKCbNqYJsUpN) <span class='ARQ'>ARQUIVOS</span> complementan o traballo 
- :file_cabinet: :open_file_folder: :floppy_disk: 
-
-
-- : 1 :notebook: :question: 
-</div>
-
-
-</div>
-
 
 <br />
 <div class='divpart'>
@@ -72,6 +47,35 @@ Po. Nigrán&nbsp;(26); Po. Baiona&nbsp;(7); Po. Gondomar&nbsp;(5); Po. Vigo&nbsp
 
 
 - : 170 :notebook: :question: 
+</div>
+
+
+</div>
+
+
+<br />
+<div class='divpart'>
+<div class='divpartit'>
+
+## <span class='participante'>[IES Escolas Proval](http://fitofaladoiro.eu?fich=1R6qcrH8nH23rtTrGfsdlsXP4ldiHlXTa4hor9TlYdhE) (Po. Nigrán)</span>
+
+</div>
+
+<div class='divpla divseccion'>
+
+### 43 <span class='PLA'>PLANTAS</span> mostreadas
+ :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
+
+__&nbsp;(43); 
+</div>
+
+<div class='divarq divseccion'>
+
+### [1](https://drive.google.com/drive/folders/1tE4t6kl2yod0UYPuqx3DsKCbNqYJsUpN) <span class='ARQ'>ARQUIVOS</span> complementan o traballo 
+ :file_cabinet: :open_file_folder: :floppy_disk: 
+
+
+- : 1 :notebook: :question: 
 </div>
 
 
