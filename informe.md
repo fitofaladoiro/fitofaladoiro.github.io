@@ -10,15 +10,15 @@
 
   - [INFORME CURSO 2021-2022](#informe-curso-2021-2022)
     - [CPI Bormoio - Agualada, Coristanco (C. Coristanco)](#cpi-bormoio---agualada-coristanco-c-coristanco)
-    - [CEIP de Cerdeiriñas (Po. Vila de Cruces)](#ceip-de-cerdeiriñas-po-vila-de-cruces)
-    - [IES San Paio (Po. Tui)](#ies-san-paio-po-tui)
     - [CPI Caldelas de Tui (Po. Tui)](#cpi-caldelas-de-tui-po-tui)
-    - [IES Escolas Proval (Po. Nigrán)](#ies-escolas-proval-po-nigrán)
-    - [IES Escolas Proval (Po. Nigrán)](#ies-escolas-proval-po-nigrán-1)
-    - [IES Escolas Proval (Po. Nigrán)](#ies-escolas-proval-po-nigrán-1)
-    - [CEIP Plurilingüe de Cerdeiriñas (Po. Vila de Cruces)](#ceip-plurilingüe-de-cerdeiriñas-po-vila-de-cruces)
     - [IES Illa de Ons (Po. Bueu)](#ies-illa-de-ons-po-bueu)
+    - [CEIP Plurilingüe de Cerdeiriñas (Po. Vila de Cruces)](#ceip-plurilingüe-de-cerdeiriñas-po-vila-de-cruces)
+    - [IES Escolas Proval (Po. Nigrán)](#ies-escolas-proval-po-nigrán)
     - [IES Illa de Ons (Po. Bueu)](#ies-illa-de-ons-po-bueu-1)
+    - [IES Escolas Proval (Po. Nigrán)](#ies-escolas-proval-po-nigrán-1)
+    - [IES San Paio (Po. Tui)](#ies-san-paio-po-tui)
+    - [CEIP de Cerdeiriñas (Po. Vila de Cruces)](#ceip-de-cerdeiriñas-po-vila-de-cruces)
+    - [IES Escolas Proval (Po. Nigrán)](#ies-escolas-proval-po-nigrán-2)
 
 
 <br />
@@ -84,53 +84,226 @@ http://www.edu.xunta.gal/centros/ceipdebormoioagualada/node/53
 <div class='divpart'>
 <div class='divpartit'>
 
-## <span class='participante'><a href='http://fitofaladoiro.eu?fich=1QmuIIYRCWjt7RqyR4o32rRV4ful-lsnQFno5frfLsjo'>CEIP de Cerdeiriñas</a> (Po. Vila de Cruces)</span>
+## <span class='participante'><a href='http://fitofaladoiro.eu?fich=1hfh0oaP6OUEs2rhAz31PEXsdMPbaGiCMulhEyqiS8iM'>CPI Caldelas de Tui</a> (Po. Tui)</span>
 
 </div>
 
 <div class='divpla divseccion'>
 
-### 63 <span class='PLA'>PLANTAS</span> mostreadas
+### 12 <span class='PLA'>PLANTAS</span> mostreadas
  :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
 
-_?_&nbsp;(63); 
+_Pinus pinaster_&nbsp;(12); 
 </div>
 
 <div class='divenq divseccion'>
 
-### 64 <span class='ENQ'>ENQUISAS</span> realizadas
+### 12 <span class='ENQ'>ENQUISAS</span> realizadas
  :notebook: :pencil2: :microphone: :older_man: :older_woman: :movie_camera: :question: :pencil: 
 
 
 
-`?`&nbsp;(1); `Acebro`&nbsp;(1); `Acevo`&nbsp;(2); `Apio Bravo`&nbsp;(2); `Asentes`&nbsp;(3); `Camelia Blanca`&nbsp;(1); `Carballo`&nbsp;(1); `Castiñeiro`&nbsp;(1); `Celidonia`&nbsp;(1); `ciridonea`&nbsp;(1); `Ciridonia`&nbsp;(2); `Couchelos`&nbsp;(1); `Dente de león`&nbsp;(1); `Erva Luisa`&nbsp;(1); `Fento`&nbsp;(2); `Fiollo ou planta do anís`&nbsp;(1); `Fiuncho`&nbsp;(1); `Hedra`&nbsp;(1); `Herba buena`&nbsp;(1); `Herba Luisa`&nbsp;(1); `Jazmín de Carolina`&nbsp;(1); `Labanda`&nbsp;(1); `Lavanda`&nbsp;(1); `Lengua de ovella`&nbsp;(1); `Limoeiro`&nbsp;(1); `Loureiro ou lourel`&nbsp;(1); `Malba`&nbsp;(2); `Malva ou Malvarisco`&nbsp;(1); `Margarita`&nbsp;(1); `Membrilleiro`&nbsp;(1); `Menta`&nbsp;(1); `Mentraste`&nbsp;(1); `Milenrama ou mielenrama`&nbsp;(1); `Morillón`&nbsp;(1); `Nébeda`&nbsp;(1); `Oliveira`&nbsp;(1); `Ombligo de Venus`&nbsp;(1); `Ortensia`&nbsp;(1); `Orégano`&nbsp;(1); `Pirixel`&nbsp;(1); `Piñeiro`&nbsp;(1); `Romeo`&nbsp;(4); `Romeu`&nbsp;(1); `Rosa`&nbsp;(1); `Rosal`&nbsp;(1); `Sabugueiro`&nbsp;(1); `Salvia ou Xarxa`&nbsp;(1); `Silva`&nbsp;(1); `Soá`&nbsp;(1); `Trebol`&nbsp;(1); `Trevo`&nbsp;(1); `Trébol`&nbsp;(1); `Tulla`&nbsp;(1); `Xesta`&nbsp;(1); 
-#### Datos procedentes de 3 concellos:
+`bullo`&nbsp;(1); `candea`&nbsp;(1); `cisco`&nbsp;(1); `fasco`&nbsp;(1); `fiuma`&nbsp;(1); `fruma`&nbsp;(1); `garuma`&nbsp;(1); `maravalla`&nbsp;(1); `marruxo`&nbsp;(1); `palluzos`&nbsp;(1); `pico`&nbsp;(2); `pinocha`&nbsp;(1); 
+#### Datos procedentes de 6 concellos:
 
-Po. Vila de Cruces&nbsp;(55); Po. Lalín&nbsp;(8); &nbsp;(1); 
+Po. Tui&nbsp;(7); Po. Salceda de Caselas&nbsp;(2); C. Rianxo&nbsp;(1); Ou. Ourense&nbsp;(1); Po. Guarda, A&nbsp;(1); Po. Neves, As&nbsp;(1); 
+</div>
+
+
+</div>
+
+
+<br />
+<div class='divpart'>
+<div class='divpartit'>
+
+## <span class='participante'><a href='http://fitofaladoiro.eu?fich=1VlLxHLL0t2rZoQxy27HyoM9ZgfIDk_ZEIBeVCmx7YEY'>IES Illa de Ons</a> (Po. Bueu)</span>
+
+</div>
+
+<div class='divpla divseccion'>
+
+### 34 <span class='PLA'>PLANTAS</span> mostreadas
+ :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
+
+_?_&nbsp;(34); 
+</div>
+
+<div class='divenq divseccion'>
+
+### 134 <span class='ENQ'>ENQUISAS</span> realizadas
+ :notebook: :pencil2: :microphone: :older_man: :older_woman: :movie_camera: :question: :pencil: 
+
+
+
+`acacia negra`&nbsp;(1); `albahaca`&nbsp;(1); `alegría`&nbsp;(1); `aloe vera`&nbsp;(2); `Arcolito`&nbsp;(1); `arcolito`&nbsp;(1); `asediñas`&nbsp;(1); `azafrán`&nbsp;(3); `baradoiro`&nbsp;(1); `bimbia`&nbsp;(1); `Biouteiro`&nbsp;(1); `carben`&nbsp;(1); `cardo`&nbsp;(2); `carrasca`&nbsp;(4); `carrasco`&nbsp;(3); `cascabeleira`&nbsp;(1); `celedonia`&nbsp;(1); `Celidonia`&nbsp;(1); `chopo`&nbsp;(3); `chuchamel`&nbsp;(4); `chuchameles`&nbsp;(1); `Ciledonia`&nbsp;(1); `couselo`&nbsp;(1); `eiroghe`&nbsp;(1); `Eiroje`&nbsp;(1); `Espliegho`&nbsp;(1); `estramonio`&nbsp;(3); `estruga`&nbsp;(7); `Estruga`&nbsp;(1); `estrugha`&nbsp;(3); `Estrugha`&nbsp;(1); `eucalipto`&nbsp;(1); `eucalito`&nbsp;(2); `Eucolito`&nbsp;(1); `fenta`&nbsp;(3); `fenta pequena`&nbsp;(1); `fento`&nbsp;(7); `Fento`&nbsp;(1); `fento macho`&nbsp;(1); `Ferrenta`&nbsp;(1); `figheira`&nbsp;(1); `figueira do demo`&nbsp;(1); `fiúncho`&nbsp;(2); `hedras`&nbsp;(1); `helecho`&nbsp;(3); `Herba Loisa`&nbsp;(1); `Herba Luisa`&nbsp;(4); `herba luisa`&nbsp;(2); `herba luísa`&nbsp;(4); `herbaluisa`&nbsp;(1); `hortelán`&nbsp;(1); `Hortelán`&nbsp;(1); `Impuenso`&nbsp;(1); `laranxeiro`&nbsp;(1); `laurel`&nbsp;(1); `lavanda`&nbsp;(1); `Lavanda`&nbsp;(1); `lengua de  ovella`&nbsp;(1); `lengua de gato`&nbsp;(1); `lengua de ovella`&nbsp;(1); `limoeiro`&nbsp;(2); `loureiro`&nbsp;(2); `Loureiro`&nbsp;(1); `maceira`&nbsp;(1); `macela`&nbsp;(1); `madre fenta`&nbsp;(1); `Malva dolor`&nbsp;(1); `malva rosa`&nbsp;(1); `Malva rosa`&nbsp;(1); `malvarrosa`&nbsp;(2); `menta`&nbsp;(1); `mentrasto`&nbsp;(1); `mimosa`&nbsp;(3); `nébedas`&nbsp;(1); `néboda`&nbsp;(1); `Ortiga`&nbsp;(1); `perexil`&nbsp;(1); `pirixel`&nbsp;(2); `poensos`&nbsp;(1); `preste`&nbsp;(1); `prestes`&nbsp;(3); `prixel`&nbsp;(2); `rasca cu`&nbsp;(1); `remeu`&nbsp;(1); `romeo`&nbsp;(1); `Romero`&nbsp;(4); `romero`&nbsp;(3); `romeu`&nbsp;(2); `rosal`&nbsp;(1); `ruda`&nbsp;(6); `Sabugheiro`&nbsp;(1); `sabugheiro`&nbsp;(1); `Sabugueiro`&nbsp;(1); `Saluca`&nbsp;(1); `Salvia`&nbsp;(1); `santamaría`&nbsp;(1); `sarradela`&nbsp;(1); `Sarxa`&nbsp;(1); `Selidonia`&nbsp;(1); `Sensibre`&nbsp;(1); `silvagheira`&nbsp;(1); `silveira`&nbsp;(1); `siredonia`&nbsp;(1); `siridonia`&nbsp;(3); `Tomillo`&nbsp;(1); `tomillo`&nbsp;(1); `tormentelo`&nbsp;(1); `torvisco`&nbsp;(1); `toxo`&nbsp;(6); `trovisco`&nbsp;(1); `verbena`&nbsp;(1); `Vimbia`&nbsp;(1); `vimbio`&nbsp;(1); `vinagreta`&nbsp;(1); `xesta`&nbsp;(2); `Xesta`&nbsp;(1); `zanoria`&nbsp;(1); `árnica`&nbsp;(1); 
+#### Datos procedentes de 7 concellos:
+
+Po. Bueu&nbsp;(165); Po. Marín&nbsp;(11); Po. Estrada, A&nbsp;(3); Lu. Sober&nbsp;(3); Po. Cangas&nbsp;(3); Po. Vigo&nbsp;(3); Po. Valga&nbsp;(1); 
 </div>
 
 <div class='divarq divseccion'>
 
-### <a href='https://drive.google.com/drive/folders/'>87</a> <span class='ARQ'>ARQUIVOS</span> complementan o traballo
+### <a href='https://drive.google.com/drive/folders/'>55</a> <span class='ARQ'>ARQUIVOS</span> complementan o traballo
  :file_cabinet: :open_file_folder: :floppy_disk: 
 
 
-- imaxe: 67 :camera: 
-- outros: 21 :notebook: :question: 
-- : 1 :notebook: :question: 
+- imaxe: 54 :camera: 
+- son: 4 :sound: 
 </div>
 
 <div class='divinf divseccion'>
 
-### 4 <span class='INF'>RECURSOS WEB</span> relacionados
+### 7 <span class='INF'>RECURSOS WEB</span> relacionados
  :link: 
 
 
-- Fitofaladoiro 2016-2017:: Unhas poucas imaxes do noso traballo durante o curso 2016-2017: http://cerdeirinhas.blogspot.com.es/2017/02/blog-post_10.html
-- Fitofaladoiro 2017-2018:: Imaxes do curso 2017-2018: https://fitofaladoirocerdeirinhas.blogspot.com/
-- Fitofaladoiro 2018-2019: Acceso ás imaxes:  https://fitofaladoirocerdeirinhas.blogspot.com/
-- Fitofaladoiro 2018-2019: Páxina principal: https://cerdeirinhas.wixsite.com/fitofaladoiro
-- Fitofaladoiro todos os anos (incluído curso 2020-2021):: https://cerdeirinhas.wixsite.com/fitofaladoiro/as-nosas-imaxes
+- Fitofaladoiro Ons - páxina web: Páxina que recolle unha selección dos traballos relacionados co Proxecto Fitofaladoiro no noso centro: http://fitofaladoirons.wix.com/ies-illa-ons-bueu
+- Canle de Youtube: Canle onde imos subindo os vídeos: https://www.youtube.com/channel/UCcw9rMV4jsS4L9ssrRJ8IUw
+- Presentación "As herbas de San Xoán": Presentación realizada con PREZI: http://prezi.com/zbsnfp5dabu4/?utm_campaign=share&utm_medium=copy&rc=ex0share
+
+
+- Infografía Fitofaladoiro: Infografía elaborada con Easel.ly que explica o proceso para realizar as entrevistas: http://www.easel.ly/browserEasel/3299413
+- Mapa Cabo Udra: Mapa elaborado con Stepmap coa localización das fotografías de plantas tomadas en Cabo Udra: http://www.stepmap.com/karte/cabo-udra-fitofaladoiro-1604712
+- Arquivo fotográfico Cabo Udra: Arquivo fotográfico coas fotografías realizadas nunha saída a Cabo Udra para a realización de entrevistas posteriores: https://app.box.com/s/ztnbg0kw9pce1b6fqj6lpwytsjkz1f7h
+- Animación Fitofaladoiro: Pequena animación elaborada con PowToon: https://youtu.be/ETaTItc0oQg
+</div>
+
+
+</div>
+
+
+<br />
+<div class='divpart'>
+<div class='divpartit'>
+
+## <span class='participante'><a href='http://fitofaladoiro.eu?fich=1gY9B2kOUpkcbPvGbTKZLPKg8UZE5uisSpbttnv_sV3s'>CEIP Plurilingüe de Cerdeiriñas</a> (Po. Vila de Cruces)</span>
+
+</div>
+
+
+</div>
+
+
+<br />
+<div class='divpart'>
+<div class='divpartit'>
+
+## <span class='participante'><a href='http://fitofaladoiro.eu?fich=1Y9hG1gX7aDZDw4sC10kRmfQiKs8ZwsC7kF_sFOd5w60'>IES Escolas Proval</a> (Po. Nigrán)</span>
+
+</div>
+
+<div class='divpla divseccion'>
+
+### 8 <span class='PLA'>PLANTAS</span> mostreadas
+ :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
+
+_?_&nbsp;(6); _Pinus pinea_&nbsp;(1); _Triticum_&nbsp;(1); 
+</div>
+
+<div class='divenq divseccion'>
+
+### 42 <span class='ENQ'>ENQUISAS</span> realizadas
+ :notebook: :pencil2: :microphone: :older_man: :older_woman: :movie_camera: :question: :pencil: 
+
+
+
+`a carrasca`&nbsp;(3); `a ceboleira`&nbsp;(1); `a pereira`&nbsp;(1); `a seara`&nbsp;(1); `a veiga`&nbsp;(1); `as cabazas`&nbsp;(2); `as carballas`&nbsp;(2); `camiño carballal`&nbsp;(1); `Camiño Das Bouzas Trigas`&nbsp;(1); `camiño das carballas`&nbsp;(1); `camiño das leiras`&nbsp;(1); `camiño das mimosas`&nbsp;(1); `camiño do fabal`&nbsp;(1); `camiño do pino manso`&nbsp;(1); `camiño piñeiros`&nbsp;(1); `carballal`&nbsp;(1); `carballeira`&nbsp;(1); `carballo da manadela`&nbsp;(1); `cerdeiras`&nbsp;(1); `estripeiro`&nbsp;(1); `fraga da oliveira`&nbsp;(1); `lourido`&nbsp;(1); `o loureiral`&nbsp;(1); `o maceiral`&nbsp;(1); `o salgueiral`&nbsp;(1); `o xuncal`&nbsp;(1); `os arieiros`&nbsp;(1); `panasco`&nbsp;(1); `piñeiro`&nbsp;(1); `praza da carrasca`&nbsp;(1); `rúa do rosal`&nbsp;(1); `rúa pereira`&nbsp;(1); `rúa souto`&nbsp;(1); `salgueiro`&nbsp;(1); `sobreira`&nbsp;(1); `soutomaior`&nbsp;(1); `tomada`&nbsp;(1); `xunqueira`&nbsp;(1); 
+#### Datos procedentes de 6 concellos:
+
+Po. Nigrán&nbsp;(26); Po. Baiona&nbsp;(7); Po. Gondomar&nbsp;(5); Po. Vigo&nbsp;(2); Lu. Valadouro, O&nbsp;(1); Po. Soutomaior&nbsp;(1); 
+</div>
+
+<div class='divarq divseccion'>
+
+### <a href='https://drive.google.com/drive/folders/10cUlzhSD1hoyQ7ad6xZ4DairpefianeC'>1</a> <span class='ARQ'>ARQUIVOS</span> complementan o traballo
+ :file_cabinet: :open_file_folder: :floppy_disk: 
+
+
+- : 170 :notebook: :question: 
+</div>
+
+
+</div>
+
+
+<br />
+<div class='divpart'>
+<div class='divpartit'>
+
+## <span class='participante'><a href='http://fitofaladoiro.eu?fich=12ejm7IFw5ItM57N0rmbfdWP0mjxlOrkaQ128UjOf8bo'>IES Illa de Ons</a> (Po. Bueu)</span>
+
+</div>
+
+<div class='divpla divseccion'>
+
+### 35 <span class='PLA'>PLANTAS</span> mostreadas
+ :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
+
+_Aloysia citrodora_&nbsp;(1); _Chelidonium majus_&nbsp;(2); _Foeniculum vulgare_&nbsp;(2); _Fucus sp._&nbsp;(1); _Helichrysum foetidum_&nbsp;(1); _Iris pseudacorus_&nbsp;(1); _Laminaria sp._&nbsp;(1); _Laurus nobilis_&nbsp;(3); _Lavandula_&nbsp;(1); _Lippia citriodora_&nbsp;(1); _Malva sp._&nbsp;(1); _Malva sylvestris_&nbsp;(1); _Mentha sp._&nbsp;(1); _Mentha suaveolens_&nbsp;(3); _Ocimum basilicum_&nbsp;(1); _Pisum sativum_&nbsp;(2); _Rosa sp._&nbsp;(1); _Ruta chalepensis_&nbsp;(2); _Saccorhiza polyschides_&nbsp;(1); _Salvia rosmarinus_&nbsp;(1); _Sambucus nigra_&nbsp;(2); _Ulex europaeus_&nbsp;(1); _Urtica dioica_&nbsp;(1); _Urtica sp._&nbsp;(2); _Zea mays_&nbsp;(2); 
+</div>
+
+<div class='divenq divseccion'>
+
+### 65 <span class='ENQ'>ENQUISAS</span> realizadas
+ :notebook: :pencil2: :microphone: :older_man: :older_woman: :movie_camera: :question: :pencil: 
+
+
+
+`a banda`&nbsp;(1); `alecrín`&nbsp;(1); `alfábega`&nbsp;(1); `bocho`&nbsp;(1); `cantroxo`&nbsp;(1); `carrasca`&nbsp;(1); `carrasquiña`&nbsp;(1); `celidonia`&nbsp;(2); `chopo`&nbsp;(2); `chícharos`&nbsp;(1); `ervillas`&nbsp;(2); `espadaina`&nbsp;(1); `estruga`&nbsp;(3); `estrugha`&nbsp;(1); `eucalipto`&nbsp;(1); `fiúncho`&nbsp;(3); `follaco`&nbsp;(1); `ghisantes`&nbsp;(1); `gholfo (de cañoto plano)`&nbsp;(1); `gholfo (de cañoto silíndrico)`&nbsp;(1); `herba luísa`&nbsp;(3); `hortelá`&nbsp;(1); `infante`&nbsp;(1); `laurel`&nbsp;(1); `lavanda`&nbsp;(2); `lengua de ovella`&nbsp;(1); `lirio`&nbsp;(1); `loureiro`&nbsp;(2); `maltraste`&nbsp;(3); `malva`&nbsp;(2); `margarita`&nbsp;(1); `maínzo`&nbsp;(1); `menta`&nbsp;(1); `menta de burro`&nbsp;(1); `millo`&nbsp;(2); `ortiga`&nbsp;(2); `orégano`&nbsp;(1); `pendón`&nbsp;(1); `perexil`&nbsp;(1); `planta do diñeiro`&nbsp;(1); `prestes`&nbsp;(2); `puenses`&nbsp;(1); `rafia`&nbsp;(1); `romero`&nbsp;(1); `romeu`&nbsp;(1); `roseira`&nbsp;(1); `ruda`&nbsp;(2); `sabugheiro`&nbsp;(1); `sabugueiro`&nbsp;(1); `selidonia`&nbsp;(2); `toxo`&nbsp;(2); `toxo femia`&nbsp;(1); `xesta`&nbsp;(2); 
+#### Datos procedentes de 6 concellos:
+
+Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&nbsp;(2); C. Cedeira&nbsp;(1); Lu. Lourenzá&nbsp;(1); 
+</div>
+
+<div class='divarq divseccion'>
+
+### <a href='https://drive.google.com/drive/folders/1yukWiG8_9LuhAjgdFzUn3UCrd7cJGanr'>75</a> <span class='ARQ'>ARQUIVOS</span> complementan o traballo
+ :file_cabinet: :open_file_folder: :floppy_disk: 
+
+
+- video: 49 :film_projector: 
+- imaxe: 19 :camera: 
+- son: 17 :sound: 
+</div>
+
+<div class='divinf divseccion'>
+
+### 2 <span class='INF'>RECURSOS WEB</span> relacionados
+ :link: 
+
+
+- Fitofaladoiro Ons - páxina web actual: https://sites.google.com/view/fitofaladoiro-ons-bueu
+- Fitofaladoiro Ons - páxina web antiga: Páxina que recolle unha selección dos traballos relacionados co Proxecto Fitofaladoiro 2015/2016 no noso centro: http://fitofaladoirons.wix.com/ies-illa-ons-bueu
+</div>
+
+
+</div>
+
+
+<br />
+<div class='divpart'>
+<div class='divpartit'>
+
+## <span class='participante'><a href='http://fitofaladoiro.eu?fich=1R6qcrH8nH23rtTrGfsdlsXP4ldiHlXTa4hor9TlYdhE'>IES Escolas Proval</a> (Po. Nigrán)</span>
+
+</div>
+
+<div class='divpla divseccion'>
+
+### 43 <span class='PLA'>PLANTAS</span> mostreadas
+ :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
+
+_ALOE VERA/ALOE BARBADENSIS_&nbsp;(1); _ALOYSIA CITRODORA_&nbsp;(8); _CHAMAEMELUM NOBILE_&nbsp;(2); _EUCALIPTUS GLOBULUS_&nbsp;(2); _HYPERICUM PERFORATUM_&nbsp;(1); _LAURUS NOBILIS_&nbsp;(3); _LAVANDULA ANGUSTIFOLIA_&nbsp;(4); _MENTHA SPITACA_&nbsp;(4); _OLEA EUROPAEA_&nbsp;(1); _PETROSELINUM CRISPUM/SATIVUM_&nbsp;(4); _ROSMARINUS OFFICINALIS/SALVIA ROSMARINUS_&nbsp;(10); _RUBUS ULMIFOLIUS SCHOTT_&nbsp;(1); _RUTA CHALAPENSIS_&nbsp;(1); _SALVIA OFFICINALIS_&nbsp;(1); 
+</div>
+
+<div class='divarq divseccion'>
+
+### <a href='https://drive.google.com/drive/folders/1tE4t6kl2yod0UYPuqx3DsKCbNqYJsUpN'>1</a> <span class='ARQ'>ARQUIVOS</span> complementan o traballo
+ :file_cabinet: :open_file_folder: :floppy_disk: 
+
+
+- : 6 :notebook: :question: 
 </div>
 
 
@@ -211,100 +384,53 @@ http://www.edu.xunta.gal/centros/iessanpaio/galeria/displayimage.php?album=89&po
 <div class='divpart'>
 <div class='divpartit'>
 
-## <span class='participante'><a href='http://fitofaladoiro.eu?fich=1hfh0oaP6OUEs2rhAz31PEXsdMPbaGiCMulhEyqiS8iM'>CPI Caldelas de Tui</a> (Po. Tui)</span>
+## <span class='participante'><a href='http://fitofaladoiro.eu?fich=1QmuIIYRCWjt7RqyR4o32rRV4ful-lsnQFno5frfLsjo'>CEIP de Cerdeiriñas</a> (Po. Vila de Cruces)</span>
 
 </div>
 
 <div class='divpla divseccion'>
 
-### 12 <span class='PLA'>PLANTAS</span> mostreadas
+### 63 <span class='PLA'>PLANTAS</span> mostreadas
  :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
 
-_Pinus pinaster_&nbsp;(12); 
+_?_&nbsp;(63); 
 </div>
 
 <div class='divenq divseccion'>
 
-### 12 <span class='ENQ'>ENQUISAS</span> realizadas
+### 64 <span class='ENQ'>ENQUISAS</span> realizadas
  :notebook: :pencil2: :microphone: :older_man: :older_woman: :movie_camera: :question: :pencil: 
 
 
 
-`bullo`&nbsp;(1); `candea`&nbsp;(1); `cisco`&nbsp;(1); `fasco`&nbsp;(1); `fiuma`&nbsp;(1); `fruma`&nbsp;(1); `garuma`&nbsp;(1); `maravalla`&nbsp;(1); `marruxo`&nbsp;(1); `palluzos`&nbsp;(1); `pico`&nbsp;(2); `pinocha`&nbsp;(1); 
-#### Datos procedentes de 6 concellos:
+`?`&nbsp;(1); `Acebro`&nbsp;(1); `Acevo`&nbsp;(2); `Apio Bravo`&nbsp;(2); `Asentes`&nbsp;(3); `Camelia Blanca`&nbsp;(1); `Carballo`&nbsp;(1); `Castiñeiro`&nbsp;(1); `Celidonia`&nbsp;(1); `ciridonea`&nbsp;(1); `Ciridonia`&nbsp;(2); `Couchelos`&nbsp;(1); `Dente de león`&nbsp;(1); `Erva Luisa`&nbsp;(1); `Fento`&nbsp;(2); `Fiollo ou planta do anís`&nbsp;(1); `Fiuncho`&nbsp;(1); `Hedra`&nbsp;(1); `Herba buena`&nbsp;(1); `Herba Luisa`&nbsp;(1); `Jazmín de Carolina`&nbsp;(1); `Labanda`&nbsp;(1); `Lavanda`&nbsp;(1); `Lengua de ovella`&nbsp;(1); `Limoeiro`&nbsp;(1); `Loureiro ou lourel`&nbsp;(1); `Malba`&nbsp;(2); `Malva ou Malvarisco`&nbsp;(1); `Margarita`&nbsp;(1); `Membrilleiro`&nbsp;(1); `Menta`&nbsp;(1); `Mentraste`&nbsp;(1); `Milenrama ou mielenrama`&nbsp;(1); `Morillón`&nbsp;(1); `Nébeda`&nbsp;(1); `Oliveira`&nbsp;(1); `Ombligo de Venus`&nbsp;(1); `Ortensia`&nbsp;(1); `Orégano`&nbsp;(1); `Pirixel`&nbsp;(1); `Piñeiro`&nbsp;(1); `Romeo`&nbsp;(4); `Romeu`&nbsp;(1); `Rosa`&nbsp;(1); `Rosal`&nbsp;(1); `Sabugueiro`&nbsp;(1); `Salvia ou Xarxa`&nbsp;(1); `Silva`&nbsp;(1); `Soá`&nbsp;(1); `Trebol`&nbsp;(1); `Trevo`&nbsp;(1); `Trébol`&nbsp;(1); `Tulla`&nbsp;(1); `Xesta`&nbsp;(1); 
+#### Datos procedentes de 3 concellos:
 
-Po. Tui&nbsp;(7); Po. Salceda de Caselas&nbsp;(2); C. Rianxo&nbsp;(1); Ou. Ourense&nbsp;(1); Po. Guarda, A&nbsp;(1); Po. Neves, As&nbsp;(1); 
-</div>
-
-
-</div>
-
-
-<br />
-<div class='divpart'>
-<div class='divpartit'>
-
-## <span class='participante'><a href='http://fitofaladoiro.eu?fich=1R6qcrH8nH23rtTrGfsdlsXP4ldiHlXTa4hor9TlYdhE'>IES Escolas Proval</a> (Po. Nigrán)</span>
-
-</div>
-
-<div class='divpla divseccion'>
-
-### 43 <span class='PLA'>PLANTAS</span> mostreadas
- :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
-
-_ALOE VERA/ALOE BARBADENSIS_&nbsp;(1); _ALOYSIA CITRODORA_&nbsp;(8); _CHAMAEMELUM NOBILE_&nbsp;(2); _EUCALIPTUS GLOBULUS_&nbsp;(2); _HYPERICUM PERFORATUM_&nbsp;(1); _LAURUS NOBILIS_&nbsp;(3); _LAVANDULA ANGUSTIFOLIA_&nbsp;(4); _MENTHA SPITACA_&nbsp;(4); _OLEA EUROPAEA_&nbsp;(1); _PETROSELINUM CRISPUM/SATIVUM_&nbsp;(4); _ROSMARINUS OFFICINALIS/SALVIA ROSMARINUS_&nbsp;(10); _RUBUS ULMIFOLIUS SCHOTT_&nbsp;(1); _RUTA CHALAPENSIS_&nbsp;(1); _SALVIA OFFICINALIS_&nbsp;(1); 
+Po. Vila de Cruces&nbsp;(55); Po. Lalín&nbsp;(8); &nbsp;(1); 
 </div>
 
 <div class='divarq divseccion'>
 
-### <a href='https://drive.google.com/drive/folders/1tE4t6kl2yod0UYPuqx3DsKCbNqYJsUpN'>1</a> <span class='ARQ'>ARQUIVOS</span> complementan o traballo
+### <a href='https://drive.google.com/drive/folders/'>87</a> <span class='ARQ'>ARQUIVOS</span> complementan o traballo
  :file_cabinet: :open_file_folder: :floppy_disk: 
 
 
-- : 6 :notebook: :question: 
+- imaxe: 67 :camera: 
+- outros: 21 :notebook: :question: 
+- : 1 :notebook: :question: 
 </div>
 
+<div class='divinf divseccion'>
 
-</div>
-
-
-<br />
-<div class='divpart'>
-<div class='divpartit'>
-
-## <span class='participante'><a href='http://fitofaladoiro.eu?fich=1Y9hG1gX7aDZDw4sC10kRmfQiKs8ZwsC7kF_sFOd5w60'>IES Escolas Proval</a> (Po. Nigrán)</span>
-
-</div>
-
-<div class='divpla divseccion'>
-
-### 8 <span class='PLA'>PLANTAS</span> mostreadas
- :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
-
-_?_&nbsp;(6); _Pinus pinea_&nbsp;(1); _Triticum_&nbsp;(1); 
-</div>
-
-<div class='divenq divseccion'>
-
-### 42 <span class='ENQ'>ENQUISAS</span> realizadas
- :notebook: :pencil2: :microphone: :older_man: :older_woman: :movie_camera: :question: :pencil: 
+### 4 <span class='INF'>RECURSOS WEB</span> relacionados
+ :link: 
 
 
-
-`a carrasca`&nbsp;(3); `a ceboleira`&nbsp;(1); `a pereira`&nbsp;(1); `a seara`&nbsp;(1); `a veiga`&nbsp;(1); `as cabazas`&nbsp;(2); `as carballas`&nbsp;(2); `camiño carballal`&nbsp;(1); `Camiño Das Bouzas Trigas`&nbsp;(1); `camiño das carballas`&nbsp;(1); `camiño das leiras`&nbsp;(1); `camiño das mimosas`&nbsp;(1); `camiño do fabal`&nbsp;(1); `camiño do pino manso`&nbsp;(1); `camiño piñeiros`&nbsp;(1); `carballal`&nbsp;(1); `carballeira`&nbsp;(1); `carballo da manadela`&nbsp;(1); `cerdeiras`&nbsp;(1); `estripeiro`&nbsp;(1); `fraga da oliveira`&nbsp;(1); `lourido`&nbsp;(1); `o loureiral`&nbsp;(1); `o maceiral`&nbsp;(1); `o salgueiral`&nbsp;(1); `o xuncal`&nbsp;(1); `os arieiros`&nbsp;(1); `panasco`&nbsp;(1); `piñeiro`&nbsp;(1); `praza da carrasca`&nbsp;(1); `rúa do rosal`&nbsp;(1); `rúa pereira`&nbsp;(1); `rúa souto`&nbsp;(1); `salgueiro`&nbsp;(1); `sobreira`&nbsp;(1); `soutomaior`&nbsp;(1); `tomada`&nbsp;(1); `xunqueira`&nbsp;(1); 
-#### Datos procedentes de 6 concellos:
-
-Po. Nigrán&nbsp;(26); Po. Baiona&nbsp;(7); Po. Gondomar&nbsp;(5); Po. Vigo&nbsp;(2); Lu. Valadouro, O&nbsp;(1); Po. Soutomaior&nbsp;(1); 
-</div>
-
-<div class='divarq divseccion'>
-
-### <a href='https://drive.google.com/drive/folders/10cUlzhSD1hoyQ7ad6xZ4DairpefianeC'>1</a> <span class='ARQ'>ARQUIVOS</span> complementan o traballo
- :file_cabinet: :open_file_folder: :floppy_disk: 
-
-
-- : 170 :notebook: :question: 
+- Fitofaladoiro 2016-2017:: Unhas poucas imaxes do noso traballo durante o curso 2016-2017: http://cerdeirinhas.blogspot.com.es/2017/02/blog-post_10.html
+- Fitofaladoiro 2017-2018:: Imaxes do curso 2017-2018: https://fitofaladoirocerdeirinhas.blogspot.com/
+- Fitofaladoiro 2018-2019: Acceso ás imaxes:  https://fitofaladoirocerdeirinhas.blogspot.com/
+- Fitofaladoiro 2018-2019: Páxina principal: https://cerdeirinhas.wixsite.com/fitofaladoiro
+- Fitofaladoiro todos os anos (incluído curso 2020-2021):: https://cerdeirinhas.wixsite.com/fitofaladoiro/as-nosas-imaxes
 </div>
 
 
@@ -356,132 +482,6 @@ Po. Nigrán&nbsp;(26); Po. Baiona&nbsp;(7); Po. Gondomar&nbsp;(5); Po. Vigo&nbsp
 
 
 - Blog no que se recolle a información obtida e as actividades realizadas para este proxecto: Ligazón pendente
-</div>
-
-
-</div>
-
-
-<br />
-<div class='divpart'>
-<div class='divpartit'>
-
-## <span class='participante'><a href='http://fitofaladoiro.eu?fich=1gY9B2kOUpkcbPvGbTKZLPKg8UZE5uisSpbttnv_sV3s'>CEIP Plurilingüe de Cerdeiriñas</a> (Po. Vila de Cruces)</span>
-
-</div>
-
-
-</div>
-
-
-<br />
-<div class='divpart'>
-<div class='divpartit'>
-
-## <span class='participante'><a href='http://fitofaladoiro.eu?fich=12ejm7IFw5ItM57N0rmbfdWP0mjxlOrkaQ128UjOf8bo'>IES Illa de Ons</a> (Po. Bueu)</span>
-
-</div>
-
-<div class='divpla divseccion'>
-
-### 35 <span class='PLA'>PLANTAS</span> mostreadas
- :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
-
-_Aloysia citrodora_&nbsp;(1); _Chelidonium majus_&nbsp;(2); _Foeniculum vulgare_&nbsp;(2); _Fucus sp._&nbsp;(1); _Helichrysum foetidum_&nbsp;(1); _Iris pseudacorus_&nbsp;(1); _Laminaria sp._&nbsp;(1); _Laurus nobilis_&nbsp;(3); _Lavandula_&nbsp;(1); _Lippia citriodora_&nbsp;(1); _Malva sp._&nbsp;(1); _Malva sylvestris_&nbsp;(1); _Mentha sp._&nbsp;(1); _Mentha suaveolens_&nbsp;(3); _Ocimum basilicum_&nbsp;(1); _Pisum sativum_&nbsp;(2); _Rosa sp._&nbsp;(1); _Ruta chalepensis_&nbsp;(2); _Saccorhiza polyschides_&nbsp;(1); _Salvia rosmarinus_&nbsp;(1); _Sambucus nigra_&nbsp;(2); _Ulex europaeus_&nbsp;(1); _Urtica dioica_&nbsp;(1); _Urtica sp._&nbsp;(2); _Zea mays_&nbsp;(2); 
-</div>
-
-<div class='divenq divseccion'>
-
-### 65 <span class='ENQ'>ENQUISAS</span> realizadas
- :notebook: :pencil2: :microphone: :older_man: :older_woman: :movie_camera: :question: :pencil: 
-
-
-
-`a banda`&nbsp;(1); `alecrín`&nbsp;(1); `alfábega`&nbsp;(1); `bocho`&nbsp;(1); `cantroxo`&nbsp;(1); `carrasca`&nbsp;(1); `carrasquiña`&nbsp;(1); `celidonia`&nbsp;(2); `chopo`&nbsp;(2); `chícharos`&nbsp;(1); `ervillas`&nbsp;(2); `espadaina`&nbsp;(1); `estruga`&nbsp;(3); `estrugha`&nbsp;(1); `eucalipto`&nbsp;(1); `fiúncho`&nbsp;(3); `follaco`&nbsp;(1); `ghisantes`&nbsp;(1); `gholfo (de cañoto plano)`&nbsp;(1); `gholfo (de cañoto silíndrico)`&nbsp;(1); `herba luísa`&nbsp;(3); `hortelá`&nbsp;(1); `infante`&nbsp;(1); `laurel`&nbsp;(1); `lavanda`&nbsp;(2); `lengua de ovella`&nbsp;(1); `lirio`&nbsp;(1); `loureiro`&nbsp;(2); `maltraste`&nbsp;(3); `malva`&nbsp;(2); `margarita`&nbsp;(1); `maínzo`&nbsp;(1); `menta`&nbsp;(1); `menta de burro`&nbsp;(1); `millo`&nbsp;(2); `ortiga`&nbsp;(2); `orégano`&nbsp;(1); `pendón`&nbsp;(1); `perexil`&nbsp;(1); `planta do diñeiro`&nbsp;(1); `prestes`&nbsp;(2); `puenses`&nbsp;(1); `rafia`&nbsp;(1); `romero`&nbsp;(1); `romeu`&nbsp;(1); `roseira`&nbsp;(1); `ruda`&nbsp;(2); `sabugheiro`&nbsp;(1); `sabugueiro`&nbsp;(1); `selidonia`&nbsp;(2); `toxo`&nbsp;(2); `toxo femia`&nbsp;(1); `xesta`&nbsp;(2); 
-#### Datos procedentes de 6 concellos:
-
-Po. Bueu&nbsp;(55); Po. Marín&nbsp;(12); C. Porto do Son&nbsp;(3); Po. Cangas&nbsp;(2); C. Cedeira&nbsp;(1); Lu. Lourenzá&nbsp;(1); 
-</div>
-
-<div class='divarq divseccion'>
-
-### <a href='https://drive.google.com/drive/folders/1yukWiG8_9LuhAjgdFzUn3UCrd7cJGanr'>75</a> <span class='ARQ'>ARQUIVOS</span> complementan o traballo
- :file_cabinet: :open_file_folder: :floppy_disk: 
-
-
-- video: 49 :film_projector: 
-- imaxe: 19 :camera: 
-- son: 17 :sound: 
-</div>
-
-<div class='divinf divseccion'>
-
-### 2 <span class='INF'>RECURSOS WEB</span> relacionados
- :link: 
-
-
-- Fitofaladoiro Ons - páxina web actual: https://sites.google.com/view/fitofaladoiro-ons-bueu
-- Fitofaladoiro Ons - páxina web antiga: Páxina que recolle unha selección dos traballos relacionados co Proxecto Fitofaladoiro 2015/2016 no noso centro: http://fitofaladoirons.wix.com/ies-illa-ons-bueu
-</div>
-
-
-</div>
-
-
-<br />
-<div class='divpart'>
-<div class='divpartit'>
-
-## <span class='participante'><a href='http://fitofaladoiro.eu?fich=1VlLxHLL0t2rZoQxy27HyoM9ZgfIDk_ZEIBeVCmx7YEY'>IES Illa de Ons</a> (Po. Bueu)</span>
-
-</div>
-
-<div class='divpla divseccion'>
-
-### 34 <span class='PLA'>PLANTAS</span> mostreadas
- :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
-
-_?_&nbsp;(34); 
-</div>
-
-<div class='divenq divseccion'>
-
-### 134 <span class='ENQ'>ENQUISAS</span> realizadas
- :notebook: :pencil2: :microphone: :older_man: :older_woman: :movie_camera: :question: :pencil: 
-
-
-
-`acacia negra`&nbsp;(1); `albahaca`&nbsp;(1); `alegría`&nbsp;(1); `aloe vera`&nbsp;(2); `Arcolito`&nbsp;(1); `arcolito`&nbsp;(1); `asediñas`&nbsp;(1); `azafrán`&nbsp;(3); `baradoiro`&nbsp;(1); `bimbia`&nbsp;(1); `Biouteiro`&nbsp;(1); `carben`&nbsp;(1); `cardo`&nbsp;(2); `carrasca`&nbsp;(4); `carrasco`&nbsp;(3); `cascabeleira`&nbsp;(1); `celedonia`&nbsp;(1); `Celidonia`&nbsp;(1); `chopo`&nbsp;(3); `chuchamel`&nbsp;(4); `chuchameles`&nbsp;(1); `Ciledonia`&nbsp;(1); `couselo`&nbsp;(1); `eiroghe`&nbsp;(1); `Eiroje`&nbsp;(1); `Espliegho`&nbsp;(1); `estramonio`&nbsp;(3); `estruga`&nbsp;(7); `Estruga`&nbsp;(1); `estrugha`&nbsp;(3); `Estrugha`&nbsp;(1); `eucalipto`&nbsp;(1); `eucalito`&nbsp;(2); `Eucolito`&nbsp;(1); `fenta`&nbsp;(3); `fenta pequena`&nbsp;(1); `fento`&nbsp;(7); `Fento`&nbsp;(1); `fento macho`&nbsp;(1); `Ferrenta`&nbsp;(1); `figheira`&nbsp;(1); `figueira do demo`&nbsp;(1); `fiúncho`&nbsp;(2); `hedras`&nbsp;(1); `helecho`&nbsp;(3); `Herba Loisa`&nbsp;(1); `Herba Luisa`&nbsp;(4); `herba luisa`&nbsp;(2); `herba luísa`&nbsp;(4); `herbaluisa`&nbsp;(1); `hortelán`&nbsp;(1); `Hortelán`&nbsp;(1); `Impuenso`&nbsp;(1); `laranxeiro`&nbsp;(1); `laurel`&nbsp;(1); `lavanda`&nbsp;(1); `Lavanda`&nbsp;(1); `lengua de  ovella`&nbsp;(1); `lengua de gato`&nbsp;(1); `lengua de ovella`&nbsp;(1); `limoeiro`&nbsp;(2); `loureiro`&nbsp;(2); `Loureiro`&nbsp;(1); `maceira`&nbsp;(1); `macela`&nbsp;(1); `madre fenta`&nbsp;(1); `Malva dolor`&nbsp;(1); `malva rosa`&nbsp;(1); `Malva rosa`&nbsp;(1); `malvarrosa`&nbsp;(2); `menta`&nbsp;(1); `mentrasto`&nbsp;(1); `mimosa`&nbsp;(3); `nébedas`&nbsp;(1); `néboda`&nbsp;(1); `Ortiga`&nbsp;(1); `perexil`&nbsp;(1); `pirixel`&nbsp;(2); `poensos`&nbsp;(1); `preste`&nbsp;(1); `prestes`&nbsp;(3); `prixel`&nbsp;(2); `rasca cu`&nbsp;(1); `remeu`&nbsp;(1); `romeo`&nbsp;(1); `Romero`&nbsp;(4); `romero`&nbsp;(3); `romeu`&nbsp;(2); `rosal`&nbsp;(1); `ruda`&nbsp;(6); `Sabugheiro`&nbsp;(1); `sabugheiro`&nbsp;(1); `Sabugueiro`&nbsp;(1); `Saluca`&nbsp;(1); `Salvia`&nbsp;(1); `santamaría`&nbsp;(1); `sarradela`&nbsp;(1); `Sarxa`&nbsp;(1); `Selidonia`&nbsp;(1); `Sensibre`&nbsp;(1); `silvagheira`&nbsp;(1); `silveira`&nbsp;(1); `siredonia`&nbsp;(1); `siridonia`&nbsp;(3); `Tomillo`&nbsp;(1); `tomillo`&nbsp;(1); `tormentelo`&nbsp;(1); `torvisco`&nbsp;(1); `toxo`&nbsp;(6); `trovisco`&nbsp;(1); `verbena`&nbsp;(1); `Vimbia`&nbsp;(1); `vimbio`&nbsp;(1); `vinagreta`&nbsp;(1); `xesta`&nbsp;(2); `Xesta`&nbsp;(1); `zanoria`&nbsp;(1); `árnica`&nbsp;(1); 
-#### Datos procedentes de 7 concellos:
-
-Po. Bueu&nbsp;(165); Po. Marín&nbsp;(11); Po. Estrada, A&nbsp;(3); Lu. Sober&nbsp;(3); Po. Cangas&nbsp;(3); Po. Vigo&nbsp;(3); Po. Valga&nbsp;(1); 
-</div>
-
-<div class='divarq divseccion'>
-
-### <a href='https://drive.google.com/drive/folders/'>55</a> <span class='ARQ'>ARQUIVOS</span> complementan o traballo
- :file_cabinet: :open_file_folder: :floppy_disk: 
-
-
-- imaxe: 54 :camera: 
-- son: 4 :sound: 
-</div>
-
-<div class='divinf divseccion'>
-
-### 7 <span class='INF'>RECURSOS WEB</span> relacionados
- :link: 
-
-
-- Fitofaladoiro Ons - páxina web: Páxina que recolle unha selección dos traballos relacionados co Proxecto Fitofaladoiro no noso centro: http://fitofaladoirons.wix.com/ies-illa-ons-bueu
-- Canle de Youtube: Canle onde imos subindo os vídeos: https://www.youtube.com/channel/UCcw9rMV4jsS4L9ssrRJ8IUw
-- Presentación "As herbas de San Xoán": Presentación realizada con PREZI: http://prezi.com/zbsnfp5dabu4/?utm_campaign=share&utm_medium=copy&rc=ex0share
-
-
-- Infografía Fitofaladoiro: Infografía elaborada con Easel.ly que explica o proceso para realizar as entrevistas: http://www.easel.ly/browserEasel/3299413
-- Mapa Cabo Udra: Mapa elaborado con Stepmap coa localización das fotografías de plantas tomadas en Cabo Udra: http://www.stepmap.com/karte/cabo-udra-fitofaladoiro-1604712
-- Arquivo fotográfico Cabo Udra: Arquivo fotográfico coas fotografías realizadas nunha saída a Cabo Udra para a realización de entrevistas posteriores: https://app.box.com/s/ztnbg0kw9pce1b6fqj6lpwytsjkz1f7h
-- Animación Fitofaladoiro: Pequena animación elaborada con PowToon: https://youtu.be/ETaTItc0oQg
 </div>
 
 
