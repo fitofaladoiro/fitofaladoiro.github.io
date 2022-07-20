@@ -16,7 +16,7 @@
 <div class='divpart'>
 <div class='divpartit'>
 
-## <a href='http://fitofaladoiro.eu?fich=1qiRkuZ2X9i_5b9aLw-wGIqFbN9yBVcpFb6BmYFweA5M'>IES Valadares</a> (Po. Vigo)
+## <span class='participante'><a href='http://fitofaladoiro.eu?fich=1qiRkuZ2X9i_5b9aLw-wGIqFbN9yBVcpFb6BmYFweA5M'>IES Valadares</a> (Po. Vigo)</span>
 
 </div>
 
