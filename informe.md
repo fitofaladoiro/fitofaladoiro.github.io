@@ -9,10 +9,10 @@
 
 
   - [INFORME CURSO 2021-2022](#informe-curso-2021-2022)
-    - [IES Escolas Proval (Po. Nigrán)](#ies-escolas-proval-po-nigrán)
-    - [IES Escolas Proval (Po. Nigrán)](#ies-escolas-proval-po-nigrán-1)
-    - [IES Escolas Proval (Po. Nigrán)](#ies-escolas-proval-po-nigrán-2)
-    - [CEIP Plurilingüe da Carrasqueira (Po. Vigo)](#ceip-plurilingüe-da-carrasqueira-po-vigo)
+    - [IES Escolas Proval (Po. Nigrán)](#ies-escolas-proval-po-nigrn)
+    - [IES Escolas Proval (Po. Nigrán)](#ies-escolas-proval-po-nigrn-1)
+    - [IES Escolas Proval (Po. Nigrán)](#ies-escolas-proval-po-nigrn-2)
+    - [CEIP Plurilingüe da Carrasqueira (Po. Vigo)](#ceip-plurilinge-da-carrasqueira-po-vigo)
     - [IES Valadares (Po. Vigo)](#ies-valadares-po-vigo)
 
 
