@@ -9,14 +9,14 @@
 
 
   - [INFORME CURSO 2021-2022](#informe-curso-2021-2022)
-    - [<span class='participante'><a href='http://fitofaladoiro.eu?fich=1qiRkuZ2X9i_5b9aLw-wGIqFbN9yBVcpFb6BmYFweA5M'>IES Valadares</a> (Po. Vigo)</span>](#<span-class='participante'><a-href='http//fitofaladoiroeu?fich=1qirkuz2x9i_5b9alw-wgiqfbn9ybvcpfb6bmyfwea5m'>ies-valadares</a>-po-vigo</span>)
+    - [IES Valadares (Po. Vigo)](#ies-valadares-po-vigo)
 
 
 <br />
 <div class='divpart'>
 <div class='divpartit'>
 
-## <span class='participante'><a href='http://fitofaladoiro.eu?fich=1qiRkuZ2X9i_5b9aLw-wGIqFbN9yBVcpFb6BmYFweA5M'>IES Valadares</a> (Po. Vigo)</span>
+## IES Valadares (Po. Vigo)
 
 </div>
 
