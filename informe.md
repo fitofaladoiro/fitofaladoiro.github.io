@@ -22,10 +22,7 @@
 
 <div class='divinf divseccion'>
 
-### 2 <span class='INF'>RECURSOS WEB</span> relacionados
- :link: 
-
-
+### 2 <span class='INF'>ACTIVIDADES</span> relacionadas no informe
 - "FITOVALADARES": Creación dunha páxina web por parte dos alumnos de TIC de 1 DE BAC  https://fitofaladoiro.vercel.app/
 - SAÍDAS : Recolleita de plantas no patio do Instituo e contorna. Saídas didácticas para recoñecemento da vexetación polos espazos citados anteriormente.
 </div>
