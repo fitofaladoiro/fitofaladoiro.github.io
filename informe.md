@@ -9,16 +9,16 @@
 
 
   - [INFORME CURSO 2021-2022](#informe-curso-2021-2022)
-    - [<span class='participante'><a href='http://fitofaladoiro.eu?fich=1kNu2wLO4RkwzkR7Reu8k9OD0iGUAbBb-oXZ04tl22SY'>IES Escolas Proval</a> (Po. Nigrán)</span>](#span-classparticipantea-hrefhttpfitofaladoiroeufich1knu2wlo4rkwzkr7reu8k9od0iguabbb-oxz04tl22syies-escolas-provala-po-nigránspan)
-    - [<span class='participante'><a href='http://fitofaladoiro.eu?fich=1Y9hG1gX7aDZDw4sC10kRmfQiKs8ZwsC7kF_sFOd5w60'>IES Escolas Proval</a> (Po. Nigrán)</span>](#span-classparticipantea-hrefhttpfitofaladoiroeufich1y9hg1gx7adzdw4sc10krmfqiks8zwsc7kf_sfod5w60ies-escolas-provala-po-nigránspan)
-    - [<span class='participante'><a href='http://fitofaladoiro.eu?fich=1R6qcrH8nH23rtTrGfsdlsXP4ldiHlXTa4hor9TlYdhE'>IES Escolas Proval</a> (Po. Nigrán)</span>](#span-classparticipantea-hrefhttpfitofaladoiroeufich1r6qcrh8nh23rttrgfsdlsxp4ldihlxta4hor9tlydheies-escolas-provala-po-nigránspan)
+    - [<span class='participante'>IES Escolas Proval (Po. Nigrán)</span>](#span-classparticipanteies-escolas-proval-po-nigránspan)
+    - [<span class='participante'>IES Escolas Proval (Po. Nigrán)</span>](#span-classparticipanteies-escolas-proval-po-nigránspan-1)
+    - [<span class='participante'>IES Escolas Proval (Po. Nigrán)</span>](#span-classparticipanteies-escolas-proval-po-nigránspan-2)
 
 
 <br />
 <div class='divpart'>
 <div class='divpartit'>
 
-## <span class='participante'><a href='http://fitofaladoiro.eu?fich=1kNu2wLO4RkwzkR7Reu8k9OD0iGUAbBb-oXZ04tl22SY'>IES Escolas Proval</a> (Po. Nigrán)</span>
+## <span class='participante'>IES Escolas Proval (Po. Nigrán)</span>
 
 </div>
 
@@ -57,7 +57,7 @@ Po. Nigrán&nbsp;(26); Po. Baiona&nbsp;(7); Po. Gondomar&nbsp;(5); Po. Vigo&nbsp
 <div class='divpart'>
 <div class='divpartit'>
 
-## <span class='participante'><a href='http://fitofaladoiro.eu?fich=1Y9hG1gX7aDZDw4sC10kRmfQiKs8ZwsC7kF_sFOd5w60'>IES Escolas Proval</a> (Po. Nigrán)</span>
+## <span class='participante'>IES Escolas Proval (Po. Nigrán)</span>
 
 </div>
 
@@ -90,7 +90,7 @@ Po. Nigrán&nbsp;(26); Po. Baiona&nbsp;(7); Po. Gondomar&nbsp;(5); Po. Vigo&nbsp
 <div class='divpart'>
 <div class='divpartit'>
 
-## <span class='participante'><a href='http://fitofaladoiro.eu?fich=1R6qcrH8nH23rtTrGfsdlsXP4ldiHlXTa4hor9TlYdhE'>IES Escolas Proval</a> (Po. Nigrán)</span>
+## <span class='participante'>IES Escolas Proval (Po. Nigrán)</span>
 
 </div>
 
