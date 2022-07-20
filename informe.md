@@ -20,25 +20,12 @@
 
 </div>
 
-<div class='divarq divseccion'>
-
-### <a href='https://drive.google.com/drive/folders/12KfhUKXK7LZgrLx4W-_nSusXxcQt6Bxs'>1</a> <span class='ARQ'>ARQUIVOS</span> complementan o traballo
- :file_cabinet: :open_file_folder: :floppy_disk: 
-
-
-- : 1 :notebook: :question: 
-</div>
-
 <div class='divinf divseccion'>
 
-### 3 <span class='INF'>RECURSOS WEB</span> relacionados
+### 2 <span class='INF'>RECURSOS WEB</span> relacionados
  :link: 
 
 
-- : 
-- : 
-- : 
-- : 
 - "FITOVALADARES": Creación dunha páxina web por parte dos alumnos de TIC de 1 DE BAC  https://fitofaladoiro.vercel.app/
 - SAÍDAS : Recolleita de plantas no patio do Instituo e contorna. Saídas didácticas para recoñecemento da vexetación polos espazos citados anteriormente.
 </div>
