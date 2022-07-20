@@ -9,24 +9,22 @@
 
 
   - [INFORME CURSO 2021-2022](#informe-curso-2021-2022)
-    - [IES Escolas Proval (Po. Nigrán)](#ies-escolas-proval-po-nigrn)
-    - [IES Escolas Proval (Po. Nigrán)](#ies-escolas-proval-po-nigrn-1)
-    - [IES Escolas Proval (Po. Nigrán)](#ies-escolas-proval-po-nigrn-2)
-    - [CEIP Plurilingüe da Carrasqueira (Po. Vigo)](#ceip-plurilinge-da-carrasqueira-po-vigo)
-    - [IES Valadares (Po. Vigo)](#ies-valadares-po-vigo)
+    - [<span class='participante'><a href='http://fitofaladoiro.eu?fich=1kNu2wLO4RkwzkR7Reu8k9OD0iGUAbBb-oXZ04tl22SY'>IES Escolas Proval</a> (Po. Nigrán)</span>](#span-classparticipantea-hrefhttp//fitofaladoiroeu?fich1knu2wlo4rkwzkr7reu8k9od0iguabbb-oxz04tl22syies-escolas-proval/a-po-nigrán/span)
+    - [<span class='participante'><a href='http://fitofaladoiro.eu?fich=1Y9hG1gX7aDZDw4sC10kRmfQiKs8ZwsC7kF_sFOd5w60'>IES Escolas Proval</a> (Po. Nigrán)</span>](#span-classparticipantea-hrefhttp//fitofaladoiroeu?fich1y9hg1gx7adzdw4sc10krmfqiks8zwsc7kf_sfod5w60ies-escolas-proval/a-po-nigrán/span)
+    - [<span class='participante'><a href='http://fitofaladoiro.eu?fich=1R6qcrH8nH23rtTrGfsdlsXP4ldiHlXTa4hor9TlYdhE'>IES Escolas Proval</a> (Po. Nigrán)</span>](#span-classparticipantea-hrefhttp//fitofaladoiroeu?fich1r6qcrh8nh23rttrgfsdlsxp4ldihlxta4hor9tlydheies-escolas-proval/a-po-nigrán/span)
 
 
 <br />
 <div class='divpart'>
 <div class='divpartit'>
 
-## IES Escolas Proval (Po. Nigrán)
+## <span class='participante'><a href='http://fitofaladoiro.eu?fich=1kNu2wLO4RkwzkR7Reu8k9OD0iGUAbBb-oXZ04tl22SY'>IES Escolas Proval</a> (Po. Nigrán)</span>
 
 </div>
 
 <div class='divpla divseccion'>
 
-### 8 PLANTAS mostreadas
+### 8 <span class='PLA'>PLANTAS</span> mostreadas
  :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
 
 _?_&nbsp;(6); _Pinus pinea_&nbsp;(1); _Triticum_&nbsp;(1); 
@@ -59,13 +57,13 @@ Po. Nigrán&nbsp;(26); Po. Baiona&nbsp;(7); Po. Gondomar&nbsp;(5); Po. Vigo&nbsp
 <div class='divpart'>
 <div class='divpartit'>
 
-## IES Escolas Proval (Po. Nigrán)
+## <span class='participante'><a href='http://fitofaladoiro.eu?fich=1Y9hG1gX7aDZDw4sC10kRmfQiKs8ZwsC7kF_sFOd5w60'>IES Escolas Proval</a> (Po. Nigrán)</span>
 
 </div>
 
 <div class='divpla divseccion'>
 
-### 8 PLANTAS mostreadas
+### 8 <span class='PLA'>PLANTAS</span> mostreadas
  :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
 
 _?_&nbsp;(6); _Pinus pinea_&nbsp;(1); _Triticum_&nbsp;(1); 
@@ -92,47 +90,16 @@ Po. Nigrán&nbsp;(26); Po. Baiona&nbsp;(7); Po. Gondomar&nbsp;(5); Po. Vigo&nbsp
 <div class='divpart'>
 <div class='divpartit'>
 
-## IES Escolas Proval (Po. Nigrán)
+## <span class='participante'><a href='http://fitofaladoiro.eu?fich=1R6qcrH8nH23rtTrGfsdlsXP4ldiHlXTa4hor9TlYdhE'>IES Escolas Proval</a> (Po. Nigrán)</span>
 
 </div>
 
 <div class='divpla divseccion'>
 
-### 43 PLANTAS mostreadas
+### 43 <span class='PLA'>PLANTAS</span> mostreadas
  :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
 
 _ALOE VERA/ALOE BARBADENSIS_&nbsp;(1); _ALOYSIA CITRODORA_&nbsp;(8); _CHAMAEMELUM NOBILE_&nbsp;(2); _EUCALIPTUS GLOBULUS_&nbsp;(2); _HYPERICUM PERFORATUM_&nbsp;(1); _LAURUS NOBILIS_&nbsp;(3); _LAVANDULA ANGUSTIFOLIA_&nbsp;(4); _MENTHA SPITACA_&nbsp;(4); _OLEA EUROPAEA_&nbsp;(1); _PETROSELINUM CRISPUM/SATIVUM_&nbsp;(4); _ROSMARINUS OFFICINALIS/SALVIA ROSMARINUS_&nbsp;(10); _RUBUS ULMIFOLIUS SCHOTT_&nbsp;(1); _RUTA CHALAPENSIS_&nbsp;(1); _SALVIA OFFICINALIS_&nbsp;(1); 
-</div>
-
-
-</div>
-
-
-<br />
-<div class='divpart'>
-<div class='divpartit'>
-
-## CEIP Plurilingüe da Carrasqueira (Po. Vigo)
-
-</div>
-
-
-</div>
-
-
-<br />
-<div class='divpart'>
-<div class='divpartit'>
-
-## IES Valadares (Po. Vigo)
-
-</div>
-
-<div class='divinf divseccion'>
-
-### 2 <span class='INF'>ACTIVIDADES</span> relacionadas no informe
-- "FITOVALADARES": Creación dunha páxina web por parte dos alumnos de TIC de 1 DE BAC  https://fitofaladoiro.vercel.app/
-- SAÍDAS : Recolleita de plantas no patio do Instituo e contorna. Saídas didácticas para recoñecemento da vexetación polos espazos citados anteriormente.
 </div>
 
 
