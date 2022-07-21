@@ -9,9 +9,9 @@
 
 
   - [INFORME CURSO 2021-2022](#informe-curso-2021-2022)
-    - [<span class='participante'>IES Escolas Proval (Po. Nigrán)</span>](#span-classparticipanteies-escolas-proval-po-nigrnspan)
-    - [<span class='participante'>IES Escolas Proval (Po. Nigrán)</span>](#span-classparticipanteies-escolas-proval-po-nigrnspan-1)
-    - [<span class='participante'>IES Escolas Proval (Po. Nigrán)</span>](#span-classparticipanteies-escolas-proval-po-nigrnspan-2)
+    - [IES Escolas Proval (Po. Nigrán)](#span-classparticipanteies-escolas-proval-po-nigrnspan)
+    - [IES Escolas Proval (Po. Nigrán)](#span-classparticipanteies-escolas-proval-po-nigrnspan-1)
+    - [IES Escolas Proval (Po. Nigrán)](#span-classparticipanteies-escolas-proval-po-nigrnspan-2)
 
 
 <br />
