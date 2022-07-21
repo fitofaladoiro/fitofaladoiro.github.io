@@ -9,22 +9,22 @@
 
 
   - [INFORME CURSO 2021-2022](#informe-curso-2021-2022)
-    - [IES Escolas Proval (Po. Nigrán)](#span-classparticipanteies-escolas-proval-po-nigrnspan)
-    - [IES Escolas Proval (Po. Nigrán)](#span-classparticipanteies-escolas-proval-po-nigrnspan-1)
-    - [IES Escolas Proval (Po. Nigrán)](#span-classparticipanteies-escolas-proval-po-nigrnspan-2)
+    - [IES Escolas Proval (Po. Nigrán)](#ies-escolas-proval-po-nigrn)
+    - [IES Escolas Proval (Po. Nigrán)](#ies-escolas-proval-po-nigrn-1)
+    - [IES Escolas Proval (Po. Nigrán)](#ies-escolas-proval-po-nigrn-2)
 
 
 <br />
 <div class='divpart'>
 <div class='divpartit'>
 
-## <span class='participante'>IES Escolas Proval (Po. Nigrán)</span>
+## IES Escolas Proval (Po. Nigrán)
 
 </div>
 
 <div class='divpla divseccion'>
 
-### 8 <span class='PLA'>PLANTAS</span> mostreadas
+### 8 PLANTAS mostreadas
  :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
 
 _?_&nbsp;(6); _Pinus pinea_&nbsp;(1); _Triticum_&nbsp;(1); 
@@ -57,13 +57,13 @@ Po. Nigrán&nbsp;(26); Po. Baiona&nbsp;(7); Po. Gondomar&nbsp;(5); Po. Vigo&nbsp
 <div class='divpart'>
 <div class='divpartit'>
 
-## <span class='participante'>IES Escolas Proval (Po. Nigrán)</span>
+## IES Escolas Proval (Po. Nigrán)
 
 </div>
 
 <div class='divpla divseccion'>
 
-### 8 <span class='PLA'>PLANTAS</span> mostreadas
+### 8 PLANTAS mostreadas
  :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
 
 _?_&nbsp;(6); _Pinus pinea_&nbsp;(1); _Triticum_&nbsp;(1); 
@@ -90,13 +90,13 @@ Po. Nigrán&nbsp;(26); Po. Baiona&nbsp;(7); Po. Gondomar&nbsp;(5); Po. Vigo&nbsp
 <div class='divpart'>
 <div class='divpartit'>
 
-## <span class='participante'>IES Escolas Proval (Po. Nigrán)</span>
+## IES Escolas Proval (Po. Nigrán)
 
 </div>
 
 <div class='divpla divseccion'>
 
-### 43 <span class='PLA'>PLANTAS</span> mostreadas
+### 43 PLANTAS mostreadas
  :herb: :deciduous_tree: :evergreen_tree: :palm_tree: :seedling: :tomato: :pear: :apple: :mushroom: 
 
 _ALOE VERA/ALOE BARBADENSIS_&nbsp;(1); _ALOYSIA CITRODORA_&nbsp;(8); _CHAMAEMELUM NOBILE_&nbsp;(2); _EUCALIPTUS GLOBULUS_&nbsp;(2); _HYPERICUM PERFORATUM_&nbsp;(1); _LAURUS NOBILIS_&nbsp;(3); _LAVANDULA ANGUSTIFOLIA_&nbsp;(4); _MENTHA SPITACA_&nbsp;(4); _OLEA EUROPAEA_&nbsp;(1); _PETROSELINUM CRISPUM/SATIVUM_&nbsp;(4); _ROSMARINUS OFFICINALIS/SALVIA ROSMARINUS_&nbsp;(10); _RUBUS ULMIFOLIUS SCHOTT_&nbsp;(1); _RUTA CHALAPENSIS_&nbsp;(1); _SALVIA OFFICINALIS_&nbsp;(1); 
