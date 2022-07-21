@@ -9,16 +9,16 @@
 
 
   - [INFORME CURSO 2021-2022](#informe-curso-2021-2022)
-    - [IES Escolas Proval (Po. Nigrán)](#ies-escolas-proval-po-nigrn)
-    - [IES Escolas Proval (Po. Nigrán)](#ies-escolas-proval-po-nigrn-1)
-    - [IES Escolas Proval (Po. Nigrán)](#ies-escolas-proval-po-nigrn-2)
+    - [Po. Nigrán: IES Escolas Proval (19)](#po-nigrn-ies-escolas-proval-19)
+    - [Po. Nigrán: IES Escolas Proval (20)](#po-nigrn-ies-escolas-proval-20)
+    - [Po. Nigrán: IES Escolas Proval (21)](#po-nigrn-ies-escolas-proval-21)
 
 
 <br />
 <div class='divpart'>
 <div class='divpartit'>
 
-## IES Escolas Proval (Po. Nigrán)
+## Po. Nigrán: IES Escolas Proval (19)
 
 </div>
 
@@ -57,7 +57,7 @@ Po. Nigrán&nbsp;(26); Po. Baiona&nbsp;(7); Po. Gondomar&nbsp;(5); Po. Vigo&nbsp
 <div class='divpart'>
 <div class='divpartit'>
 
-## IES Escolas Proval (Po. Nigrán)
+## Po. Nigrán: IES Escolas Proval (20)
 
 </div>
 
@@ -90,7 +90,7 @@ Po. Nigrán&nbsp;(26); Po. Baiona&nbsp;(7); Po. Gondomar&nbsp;(5); Po. Vigo&nbsp
 <div class='divpart'>
 <div class='divpartit'>
 
-## IES Escolas Proval (Po. Nigrán)
+## Po. Nigrán: IES Escolas Proval (21)
 
 </div>
 
