@@ -24,6 +24,7 @@
     - [Lu. Mondoñedo: IES Plurilingüe San Rosendo (20)](#lu-mondoñedo-ies-plurilinge-san-rosendo-20)
     - [Lu. Monforte de Lemos: IES Francisco Daviña Rey (21)](#lu-monforte-de-lemos-ies-francisco-daviña-rey-21)
     - [Lu. Viveiro: os do Meixonfrío (16)](#lu-viveiro-os-do-meixonfro-16)
+    - [Ou. Verín: Verín Natural ()](#ou-vern-vern-natural-)
     - [Ou. Vilar de Barrio: Fitofaladoiro Antón Pérez Rodríguez (13-)](#ou-vilar-de-barrio-fitofaladoiro-antn-prez-rodrguez-13-)
     - [Po. Bueu: IES Illa de Ons (15)](#po-bueu-ies-illa-de-ons-15)
     - [Po. Bueu: IES Illa de Ons (21)](#po-bueu-ies-illa-de-ons-21)
@@ -251,6 +252,18 @@ C. Aranga&nbsp;(16); C. Curtis&nbsp;(15); C. Paderne&nbsp;(6); C. Coirós&nbsp;(
 <div class='divpartit'>
 
 ## Lu. Viveiro: os do Meixonfrío (16)
+
+</div>
+
+
+</div>
+
+
+<br />
+<div class='divpart'>
+<div class='divpartit'>
+
+## Ou. Verín: Verín Natural ()
 
 </div>
 
